@@ -2,7 +2,7 @@ import {getTranslations} from 'next-intl/server';
 import Header from '@/components/Header';
 import BonusTable from '@/components/BonusTable';
 import ReferralCard from '@/components/ReferralCard';
-
+export const runtime = 'edge'
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'ReferralBonus'});
