@@ -8,7 +8,7 @@ import Intro from '@/components/Intro';
 import ComparisonTable from '@/components/ComparisonTable';
 import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
-
+export const runtime = 'edge'
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'Index'});
