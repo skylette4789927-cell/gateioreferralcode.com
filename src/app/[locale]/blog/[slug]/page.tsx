@@ -4,6 +4,8 @@ import Footer from '@/components/Footer';
 import {notFound} from 'next/navigation';
 import {getPostData} from '@/lib/blog';
 
+export const runtime = 'edge';
+
 export async function generateMetadata({params}: {params: Promise<{locale: string, slug: string}>}) {
   const {locale, slug} = await params;
   const post = await getPostData(locale, slug);

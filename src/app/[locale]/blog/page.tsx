@@ -4,6 +4,8 @@ import Footer from '@/components/Footer';
 import {Link} from '@/i18n/routing';
 import {getAllPosts} from '@/lib/blog';
 
+export const runtime = 'edge';
+
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'Blog'});
