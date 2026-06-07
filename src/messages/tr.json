@@ -1,18 +1,23 @@
 {
   "Index": {
-    "title": "Gate Referans Kodu 2026: 5000$ Bonus Alın | gateioreferralcode.com",
-    "description": "5000$'a kadar hoş geldin bonusu almak için resmi Gate.io referans kodunu kullanın. Komisyon indirimleri ve ödüller için en iyi Gate.io davet kodu."
+    "title": "2026'da En İyi Kripto Borsa Bonus Kodları | exchangebonuscode.com",
+    "description": "Kayıt bonuslarını, referans kodlarını ve işlem ücreti indirimlerini karşılaştırın. Ödüller bölgeye ve kampanyaya göre değişebilir."
   },
   "Header": {
     "home": "Anasayfa",
+    "bonus_codes": "Bonus Kodları",
+    "compare": "Karşılaştır",
+    "calculators": "Hesaplayıcılar",
+    "countries": "Ülkeler",
+    "guides": "Rehberler",
     "invitation_code": "Davet Kodu",
     "bonus": "Bonus",
     "guide": "Rehber",
     "blog": "Blog"
   },
   "Hero": {
-    "title": "Gate.io Referans Kodu (2026) 5.000$'a Kadar Bonus Kazanın",
-    "subtitle": "İşlem ödüllerini ve komisyon indirimlerini açmak için en güncel Gate.io davet kodunu kullanın.",
+    "title": "Gate.io referans kodu (2026): bonus ve ücret indirimi rehberi",
+    "subtitle": "Kayıt sırasında referans kodu kullanarak kampanya ödüllerine ve olası ücret indirimlerine erişin (uygunluk değişebilir).",
     "cta": "Gate.io'da Bonusu Al"
   },
   "ReferralCard": {
@@ -20,7 +25,7 @@
     "subtitle": "Yeni Kullanıcılara Özel",
     "copy": "Kodu Kopyala",
     "copied": "Kopyalandı ✓",
-    "benefit1": "5.000$'a kadar hoş geldin bonusu",
+    "benefit1": "Olası hoş geldin ödülleri (değişebilir)",
     "benefit2": "İşlem komisyonu indirimleri",
     "benefit3": "Özel kampanya ödülleri",
     "register": "Şimdi Kaydol"
@@ -77,7 +82,7 @@
     "description": "Yeni kullanıcılar için en güncel Gate.io davet kodu. Özel işlem bonuslarını ve komisyon indirimlerini açmak için şimdi kaydolun."
   },
   "ReferralBonus": {
-    "title": "Gate.io Referans Bonusu Rehberi 2026: 5000$ Nasıl Alınır?",
+    "title": "Gate.io referans bonus rehberi 2026: şartlar ve nasıl alınır",
     "description": "Gate.io referans bonusları hakkında tam rehber. Hoş geldin bonusu, yatırma ödülleri ve işlem komisyonu iadelerini nasıl alacağınızı öğrenin."
   },
   "ReferralReddit": {
@@ -93,11 +98,641 @@
     "description": "Kayıt sırasında Gate.io Referans Kimliği kullanımına dair adım adım rehber. Kayıt bonusunu kaçırmadığınızdan emin olun."
   },
   "Footer": {
-    "rights_reserved": "Referans Kodu Merkezi. Tüm hakları saklıdır."
+    "rights_reserved": "Tüm hakları saklıdır."
   },
   "Blog": {
     "title": "Gate.io Blog ve Rehberler",
     "description": "Gate.io borsası hakkında en son haberler, öğreticiler ve rehberler.",
     "read_more": "Devamını Oku"
+  },
+  "Common": {
+    "copy_code": "Kodu kopyala",
+    "copied": "Kopyalandı",
+    "register": "Kayıt ol",
+    "view_details": "Detayları gör",
+    "calculate_value": "Değer hesapla",
+    "view_code": "Kodu gör",
+    "best_for": "En uygun",
+    "updated": "Güncellendi",
+    "add_to_favorites": "Favorilere ekle",
+    "remove_from_favorites": "Favorilerden çıkar"
+  },
+  "Disclaimer": {
+    "text": "Ödüller, bonuslar ve ücret indirimleri ülkeye, kampanyaya ve hesap durumuna göre değişebilir. Bu site yalnızca bilgilendirici tahminler sunar ve finansal tavsiye değildir. Kayıt olmadan veya işlem yapmadan önce her zaman borsanın resmi şartlarını kontrol edin."
+  },
+  "Exchange": {
+    "referral_code_label": "{name} referans kodu",
+    "bonus_type": {
+      "signup": "kayıt",
+      "trading": "işlem",
+      "fee_discount": "ücret indirimi",
+      "voucher": "kupon",
+      "cashback": "geri ödeme"
+    },
+    "bonus_type_help": {
+      "signup": "Yeni hesap açarken alınabilecek kayıt ödülleri (kampanya ve bölgeye göre değişir).",
+      "trading": "İşlem görevleri, hacim şartları veya işlem faaliyetlerine bağlı geri ödemeler.",
+      "fee_discount": "İşlem ücretlerinde indirim (VIP seviyesi, token ve bölgeye göre değişebilir).",
+      "voucher": "Ücret kredisi veya kampanya avantajı olarak kullanılabilecek kuponlar.",
+      "cashback": "Belirli şartlar sağlandıktan sonra verilen geri ödeme/iadeler."
+    },
+    "best_for_tag": {
+      "altcoins": "altcoin",
+      "new_listings": "yeni listeler",
+      "derivatives": "türev",
+      "advanced_traders": "ileri seviye trader",
+      "liquidity": "likidite",
+      "low_spreads": "düşük spread"
+    },
+    "table": {
+      "exchange": "Borsa",
+      "bonus_types": "Bonus türleri",
+      "best_for": "En uygun",
+      "action": "Eylem"
+    }
+  },
+  "ExchangeDetail": {
+    "title": "{name} referans kodu 2026: bonus, ödül ve ücret indirimi rehberi",
+    "subtitle": "Bonus türlerini karşılaştırın, şartları anlayın ve kayıt olmadan önce olası ücret tasarrufunu hesaplayın.",
+    "how": {
+      "title": "Kod nasıl kullanılır",
+      "step1": "Resmi kayıt sayfasını açın.",
+      "step2": "İsteğe bağlı referans / davet alanını bulun.",
+      "step3": "Kodu yapıştırın ve kaydı tamamlayın.",
+      "step4": "Kayıt sonrası bonus/ödül merkezini kontrol edin."
+    },
+    "rewards": {
+      "title": "Hangi ödüller olabilir",
+      "item1": "Kayıt ödülleri (kampanyaya bağlı).",
+      "item2": "İşlem ücreti indirimleri (seviye ve bölgeye bağlı).",
+      "item3": "Görev bazlı kupon/iade (yatırma/işlem/KYC şartları olabilir).",
+      "cta": "Olası değeri hesapla"
+    },
+    "faq": {
+      "title": "SSS",
+      "q1": "{name} referans kodu nedir?",
+      "a1": "Referans kodu, kayıt sırasında isteğe bağlı olarak girebileceğiniz bir koddur. Bölgenize ve mevcut kampanyaya bağlı olarak ücret indirimi veya kampanya ödülleri sağlayabilir.",
+      "q2": "Kodu {name} üzerinde nereye girerim?",
+      "a2": "Çoğu borsa kayıt sırasında referans/davet alanı gösterir. Görmüyorsanız, resmi kayıt sayfasını referans bağlantısıyla yeniden açın ve isteğe bağlı alanı arayın.",
+      "q3": "Kayıttan sonra kod ekleyebilir miyim?",
+      "a3": "Bazı borsalar izin verir, çoğu vermez. Resmi yardım merkezi aksi söylemedikçe referans kodlarını “yalnızca kayıt anında” olarak düşünün.",
+      "q4": "Ödüller garanti mi?",
+      "a4": "Hayır. Ödüller ve indirimler ülkeye, KYC durumuna, yatırma miktarına, işlem görevlerine ve kampanya kurallarına göre değişebilir. Her zaman resmi şartları kontrol edin."
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "2026'da En İyi Kripto Borsa Bonus Kodları",
+      "subtitle": "Kayıt bonuslarını, işlem ücreti indirimlerini, referans kodlarını ve şartları karşılaştırarak size uygun seçimi yapın.",
+      "cta_compare": "Bonus kodlarını karşılaştır",
+      "cta_best": "En iyi bonusu bul",
+      "cta_calc": "Ödül hesapla"
+    },
+    "quick_calc": {
+      "title": "Hızlı hesaplayıcı",
+      "subtitle": "Ülke, işlem türü ve hacim girerek ücret tasarrufunu tahmin edin.",
+      "full_calc": "Tam hesaplayıcı",
+      "country": "Ülke",
+      "trade_type": "İşlem türü",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Vadeli",
+      "monthly_volume": "Aylık işlem hacmi (USD)",
+      "best_match": "En iyi eşleşme (tahmin)",
+      "annual_savings": "Tahmini yıllık ücret tasarrufu: {low}–{high}",
+      "discount_range": "Tahmini indirim aralığı: {low}–{high}",
+      "view_code": "Kodu gör",
+      "compare": "Karşılaştır",
+      "note": "Bu tahmin basitleştirilmiştir; VIP seviyeleri, token indirimleri veya kampanya kurallarını yansıtmayabilir."
+    },
+    "finder": {
+      "title": "Bonus Bulucu",
+      "subtitle": "Size uygun bonus kodunu bulmak için birkaç soruyu yanıtlayın.",
+      "experience": "Deneyim",
+      "experience_new": "Yeni başlayan",
+      "experience_experienced": "Deneyimli",
+      "trade_type": "İşlem türü",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Vadeli",
+      "preference": "Öncelik",
+      "preference_bonus": "Bonus",
+      "preference_fees": "Daha düşük ücret",
+      "country": "Ülke",
+      "result_title": "Öneri",
+      "best_match": "En iyi eşleşme: {name}",
+      "why": "Tercihlerinize ve {country} uygunluğuna göre.",
+      "alternatives": "Alternatifler",
+      "cta_view": "Kodu gör",
+      "cta_calc": "Değer hesapla",
+      "empty": "Öneri görmek için seçenekleri seçin.",
+      "note": "Bu basitleştirilmiş bir öneridir. Her zaman resmi şartları kontrol edin."
+    },
+    "featured": {
+      "title": "Öne çıkan kodlar"
+    },
+    "table": {
+      "title": "Karşılaştırma tablosu",
+      "subtitle": "Bonus türleri ve hangi borsanın kimler için uygun olabileceğine hızlı bakış."
+    },
+    "compare": {
+      "title": "Etkileşimli karşılaştırma",
+      "trade_type": "İşlem türü",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Vadeli",
+      "sort": "Sırala",
+      "sort_low_fee": "En düşük ücret (tahmin)",
+      "sort_best_bonus": "En iyi bonus uyumu",
+      "est_fee": "Tahmini yıllık ücret",
+      "cta": "Kodu gör",
+      "note": "Sıralama basitleştirilmiş varsayımlara dayanır ve gerçek ücret seviyeleriyle aynı olmayabilir."
+    },
+    "recent": {
+      "title": "Son görüntülenenler",
+      "subtitle": "Daha önce açtığınız sayfalara hızlıca dönün.",
+      "empty": "Henüz son görüntülenen borsa yok."
+    },
+    "favorites": {
+      "title": "Favoriler",
+      "subtitle": "Daha sonra karşılaştırmak için borsaları kaydedin.",
+      "empty": "Henüz favori yok."
+    },
+    "faq_title": "Bonus kuralları",
+    "faq": {
+      "q1": "Borsa bonus kodu nedir?",
+      "a1": "Bonus kodu veya referans kodu, kayıt sırasında kullanılan isteğe bağlı bir koddur. Bölgeye ve kampanyaya bağlı olarak ücret indirimi veya ödül sağlayabilir.",
+      "q2": "Bonuslar garanti mi?",
+      "a2": "Hayır. Ödüller ülkeye, KYC durumuna, yatırma miktarına, işlem görevlerine ve kampanya kurallarına göre değişebilir. Her zaman resmi şartları kontrol edin.",
+      "q3": "Bonus ile ücret indirimi arasındaki fark nedir?",
+      "a3": "Bonus genellikle şartlı kampanya ödülüdür. Ücret indirimi ise işlem maliyetini düşürür ve ücret seviyelerine, token indirimlerine veya referans programına bağlıdır.",
+      "q4": "Kayıttan sonra kod girebilir miyim?",
+      "a4": "Genellikle hayır. Çoğu borsa referans kodlarını yalnızca kayıt sırasında kabul eder; resmi yardım merkezi izin veriyorsa istisna olabilir."
+    },
+    "countries": {
+      "title": "Ülke bonus rehberleri",
+      "subtitle": "Popüler konumlarla başlayın. Uygunluk değişebilir.",
+      "view_all": "Tümünü gör"
+    },
+    "updates": {
+      "title": "Bonus güncellemeleri",
+      "subtitle": "Kampanyalar, kod değişiklikleri ve ücret indirimi güncellemelerini takip edin.",
+      "item1_title": "Yeni kampanyalar",
+      "item1_desc": "Borsalarda yeni kayıt veya işlem promosyonları.",
+      "item2_title": "Kod değişiklikleri",
+      "item2_desc": "Bu sitedeki doğrulanmış kod/bağlantı güncellemeleri.",
+      "item3_title": "Ücret indirimi güncellemeleri",
+      "item3_desc": "Ücret seviyeleri veya indirim aralıklarındaki değişiklikler."
+    }
+  },
+  "CountryBonus": {
+    "title": "{country} için en iyi kripto borsa bonus kodları",
+    "subtitle": "{country} için mevcut bonus kodlarını ve ücret indirimlerini karşılaştırın. Ödüller bölgeye ve kampanyaya göre değişebilir.",
+    "cta_compare": "Bonus kodlarını karşılaştır",
+    "cta_calc": "Değer hesapla",
+    "featured": "Öne çıkan kodlar",
+    "notes_title": "Notlar",
+    "note1": "Uygunluk yerel düzenlemelere ve KYC gereksinimlerine göre değişebilir.",
+    "note2": "Ödüller ve indirimler kampanya ve hesap durumuna göre değişebilir.",
+    "note3": "Kayıt olmadan veya işlem yapmadan önce resmi şartları kontrol edin."
+  },
+  "BonusCodes": {
+    "title": "Bonus kodları veritabanı",
+    "subtitle": "Listeyi inceleyin ve bonus türlerini, şartları ve ücret indirimi notlarını karşılaştırın.",
+    "search_label": "Ara",
+    "search_placeholder": "Borsa adı yazın",
+    "sort_label": "Sırala",
+    "sort_featured": "Öne çıkanlar",
+    "sort_updated": "Son güncellenen",
+    "sort_max_discount": "Maks. indirim",
+    "sort_name": "Ad (A–Z)",
+    "filters_label": "Filtreler",
+    "bonus_type_signup": "Kayıt",
+    "bonus_type_trading": "İşlem",
+    "bonus_type_fees": "Ücret indirimi",
+    "bonus_type_voucher": "Kupon",
+    "bonus_type_cashback": "Geri ödeme",
+    "favorites_only": "Sadece favoriler",
+    "clear_filters": "Temizle",
+    "results_count": "{count} sonuç",
+    "open_exchange": "{name} detaylarını aç",
+    "calculator_title": "{name} için değer hesapla",
+    "calculator_subtitle": "Hacme ve varsayılan ücret seviyelerine göre olası ücret tasarrufunu tahmin edin.",
+    "calculator_result": "Tahmin",
+    "calculator_savings": "Tahmini yıllık ücret tasarrufu: {low}–{high}",
+    "calculator_discount": "Tahmini indirim aralığı: {low}–{high}",
+    "calculator_full": "Tam hesaplayıcıyı aç",
+    "close": "Kapat"
+  },
+  "Compare": {
+    "title": "Bonus kodlarını karşılaştır",
+    "subtitle": "Başlıca kripto borsalarında bonus türlerini ve ücret indirimi notlarını karşılaştırın."
+  },
+  "CompareTool": {
+    "pick_title": "En fazla 3 borsa seçin",
+    "pick_note": "Bu basitleştirilmiş bir karşılaştırmadır. Ödüller ve uygunluk ülkeye ve kampanya kurallarına göre değişebilir.",
+    "result_title": "Sonuç",
+    "best_match": "En iyi eşleşme (tahmini)",
+    "bonus_types": "Bonus türleri",
+    "best_for": "En uygun",
+    "view_referral": "{name} referans kodunu görüntüle",
+    "empty": "Sonuç görmek için en az bir borsa seçin."
+  },
+  "Calculators": {
+    "title": "Crypto Bonus & Fee Calculators",
+    "subtitle": "Estimate potential exchange rewards, trading fee savings, referral code validity, and bonus requirements before you register.",
+    "cta_bonus": "Calculate My Bonus Value",
+    "cta_checker": "Check Referral Code",
+    "preview": {
+      "title": "Quick preview",
+      "savings_label": "Estimated yearly fee savings",
+      "savings_value": "$48 – $126",
+      "best_label": "Best match",
+      "best_value": "OKX / Binance / Gate.io",
+      "status_label": "Status",
+      "status_value": "Region dependent",
+      "note": "Estimates only. Actual rewards and fee discounts can vary by country, KYC status, deposit amount, trading volume, and official exchange rules."
+    },
+    "badge": {
+      "highest": "Highest",
+      "high": "High",
+      "soon": "Soon"
+    },
+    "main_tools": {
+      "title": "Core tools",
+      "subtitle": "Use these to go from browsing to decision-making before you sign up."
+    },
+    "bonus_value": {
+      "title": "Bonus değer hesaplayıcı",
+      "desc": "Estimate potential bonus value and yearly trading fee savings, plus a best-match score.",
+      "inputs": "Inputs: exchange, country, deposit, monthly volume, trading type",
+      "cta": "Start calculating →"
+    },
+    "checker": {
+      "title": "Referans kodu kontrolü",
+      "desc": "Check whether a referral code format looks valid and matches verified listings on this site.",
+      "inputs": "Inputs: exchange, code, country, new user",
+      "cta": "Check a code →"
+    },
+    "fee_savings": {
+      "title": "Trading Fee Savings Calculator",
+      "desc": "Estimate how much you could save per year from fee discounts based on your trading volume.",
+      "inputs": "Inputs: exchange, spot/futures, maker/taker, volume, discounts",
+      "cta": "Estimate savings →"
+    },
+    "country_checker": {
+      "title": "Country Availability Checker",
+      "desc": "Check whether exchange bonuses may be available in your country and what conditions to expect.",
+      "inputs": "Inputs: country, exchange, new user, spot/futures",
+      "cta": "Check availability →"
+    },
+    "coming": {
+      "title": "More tools coming",
+      "subtitle": "These will be added in the next phase to reduce drop-off and improve decision confidence.",
+      "requirement": {
+        "title": "Bonus Requirement Checker",
+        "desc": "Estimate how hard it is to qualify for a bonus based on typical requirements."
+      },
+      "finder": {
+        "title": "Best Bonus Finder",
+        "desc": "Answer a few questions to get a best-match exchange + bonus suggestion."
+      },
+      "checklist": {
+        "title": "Bonus Claim Checklist",
+        "desc": "A step-by-step checklist so you don’t miss any claim requirements."
+      },
+      "tracker": {
+        "title": "Reward Tracker",
+        "desc": "Track your own bonus tasks and deadlines using local storage (no login)."
+      }
+    }
+  },
+  "CalculatorPage": {
+    "title": "Crypto Exchange Bonus Value Calculator",
+    "subtitle": "Estimate potential bonus value, fee savings, referral code impact, and eligibility notes before you register. Results are estimates only."
+  },
+  "Calculator": {
+    "inputs": "Girdiler",
+    "country": "Country",
+    "exchange": "Borsa",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "trade_type": "İşlem türü",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Vadeli",
+    "first_deposit": "İlk yatırma (USD)",
+    "first_deposit_placeholder": "100",
+    "monthly_volume": "Aylık işlem hacmi (USD)",
+    "monthly_volume_placeholder": "1000",
+    "output_estimate": "Çıktı (tahmini)",
+    "output_country_exchange": "{country} · {exchange}",
+    "match_score": "Bonus Match Score: {score}/100",
+    "fee_savings_title": "Estimated fee savings",
+    "best_match_title": "Recommended exchange",
+    "best_match_note": "Availability: {status}. Compare exchanges if you’re deciding between options.",
+    "requirements_title": "Requirements you may need",
+    "cta_compare": "Compare exchanges",
+    "availability_available": "Available",
+    "availability_limited": "Region dependent",
+    "availability_not_confirmed": "Not confirmed",
+    "use_referral": "Use referral code?",
+    "use_referral_note": "Most exchanges only accept referral codes during sign-up.",
+    "hold_token": "Holding exchange token?",
+    "hold_token_note": "Some exchanges offer additional fee discounts for token holding.",
+    "req_new_account": "New account registration",
+    "req_referral_code": "Referral code entered during signup",
+    "req_kyc": "KYC verification",
+    "req_deposit_or_trade": "Deposit or trading task may be required",
+    "output_exchange": "Borsa",
+    "output_annual_volume": "Varsayılan yıllık işlem hacmi",
+    "output_assumed_fees": "Varsayılan yıllık ücret (taker oranına göre):",
+    "output_savings_range": "Olası tasarruf aralığı ({low}–{high}):",
+    "per_year": "/ yıl",
+    "deposit_note_value": "{value} ilk yatırma",
+    "deposit_note_default": "ilk yatırmanız",
+    "output_note": "Bu tahmin basitleştirilmiş ücret varsayımı kullanır; VIP seviyeleri, maker iadeleri, token indirimleri veya kampanya kurallarını içermez. Ödüller {depositNote}, KYC ve/veya işlem görevleri gerektirebilir."
+  },
+  "ReferralCheckerPage": {
+    "title": "Referans kodu kontrolü",
+    "subtitle": "Check code format, verified listing status, and region-dependent notes before you register. Most referral codes must be entered during sign-up."
+  },
+  "ReferralChecker": {
+    "inputs": "Girdiler",
+    "exchange": "Borsa",
+    "referral_code": "Referans kodu",
+    "referral_code_placeholder": "Kodu girin",
+    "country": "Country",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "result": "Sonuç",
+    "status_enter": "Enter a code to check format and listing status.",
+    "status_invalid_title": "Status: Code format may be invalid",
+    "status_invalid_desc": "Please check the exchange name and code again.",
+    "status_valid_title": "Status: Format looks valid",
+    "status_valid_unverified_desc": "This code is not listed as a verified code on our site. Benefits may vary.",
+    "status_verified_title": "Status: Verified listing on ExchangeBonusCode.com",
+    "status_verified_desc": "This code matches a verified listing for the selected exchange.",
+    "cta_use_code": "Use this code",
+    "cta_view_bonus": "View bonus details",
+    "cta_compare_verified": "Compare verified codes",
+    "copied": "Copied",
+    "existing_user_title": "Existing user warning",
+    "existing_user_desc": "Many exchanges only accept referral codes during sign-up. Existing users may not be able to add a code later.",
+    "note": "Country: {country}. Benefits may vary by region and campaign rules. Always verify on the official {name} signup page before registering."
+  },
+  "FeeSavingsPage": {
+    "title": "Crypto Trading Fee Savings Calculator",
+    "subtitle": "Estimate how much you might save with fee discounts (referral codes, token holding, or tier assumptions). Results are estimates only."
+  },
+  "FeeSavings": {
+    "inputs": "Inputs",
+    "exchange": "Exchange",
+    "trade_type": "Trading type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "fee_side": "Maker or taker",
+    "fee_side_maker": "Maker",
+    "fee_side_taker": "Taker",
+    "monthly_volume": "Monthly trading volume (USD)",
+    "monthly_volume_placeholder": "5000",
+    "trading_months": "Trading months",
+    "use_referral": "Use referral code",
+    "use_referral_note": "Some discounts may require entering a code during sign-up.",
+    "hold_token": "Hold exchange token",
+    "hold_token_note": "Additional discounts may apply when holding the exchange token.",
+    "output": "Output (estimate)",
+    "level": {
+      "low": "Low savings",
+      "medium": "Medium savings",
+      "high": "High savings"
+    },
+    "original_fee": "Original estimated fee",
+    "original_fee_note": "Based on {months} months of volume and a simplified fee assumption.",
+    "after_discount": "Estimated fee after discount",
+    "after_discount_note": "Shown as a range to avoid over-promising.",
+    "savings": "Potential savings",
+    "savings_note": "Higher trading frequency can make fee discounts more valuable than one-time signup bonuses.",
+    "disclaimer": "This is an estimate only. Rewards, bonuses, and fee discounts may vary by country, campaign, KYC status, deposit amount, trading volume, and official exchange rules."
+  },
+  "Countries": {
+    "hub_title": "Crypto Exchange Bonus Codes by Country",
+    "hub_subtitle": "Rewards vary by country due to KYC rules, product availability, and local payment methods. Search and filter to find the best match for your location.",
+    "hub_meta_title": "Crypto Exchange Bonus Codes by Country (2026) | ExchangeBonusCode",
+    "hub_meta_description": "Browse country bonus guides and quickly check availability by country, KYC, trade type, and deposit method. Rewards may vary by region and campaign rules.",
+    "search_label": "Search",
+    "search_placeholder": "Search a country or region",
+    "filter_region": "Region",
+    "filter_kyc": "KYC",
+    "filter_trade_type": "Spot/Futures",
+    "filter_deposit_method": "Deposit method",
+    "all": "All",
+    "kyc": "KYC",
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "deposit_methods": "Deposit methods",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "favorites_only": "Favorites only",
+    "clear_filters": "Clear",
+    "results_count": "{count} results",
+    "recently_viewed": "Recently viewed",
+    "popular_comparisons_title": "Popular country comparisons",
+    "popular_comparisons_subtitle": "Quickly compare bonus availability across two locations.",
+    "recommended": "Recommended",
+    "view_guide": "View guide",
+    "check_availability": "Check availability",
+    "tag_high_bonus": "High bonus potential",
+    "tag_easy_deposit": "Easy deposit",
+    "tag_kyc_required": "KYC required",
+    "updated": "Updated",
+    "open_country": "Open {name} country guide",
+    "favorite_add": "Add to favorites",
+    "favorite_remove": "Remove from favorites",
+    "region": {
+      "Asia": "Asia",
+      "Middle East": "Middle East",
+      "Oceania": "Oceania",
+      "North America": "North America",
+      "South America": "South America",
+      "Europe": "Europe",
+      "Africa": "Africa"
+    }
+  },
+  "AvailabilityCheckerPage": {
+    "title": "Country Availability Checker",
+    "subtitle": "Select country, exchange, user type, and trade type to see availability and reward notes. Results are informational and can vary by campaign rules."
+  },
+  "AvailabilityChecker": {
+    "inputs": "Inputs",
+    "country": "Country",
+    "exchange": "Exchange",
+    "user_type": "User type",
+    "user_type_new": "New user",
+    "user_type_existing": "Existing user",
+    "trade_type": "Trade type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "cta_check": "Check availability",
+    "history": "History",
+    "output": "Output",
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "tag_verified": "Verified",
+    "tag_region_dependent": "Region dependent",
+    "tag_kyc_needed": "KYC needed",
+    "bonus_types": "Bonus types",
+    "no_bonus": "No bonus listed",
+    "deposit_methods": "Deposit methods",
+    "updated": "Updated",
+    "alternatives": "Alternative options",
+    "disclaimer": "Rewards may vary by country, campaign, and account status. Always confirm official terms on the exchange before registering or trading."
+  },
+  "CountryDetail": {
+    "meta_title": "Best Crypto Exchange Bonus Codes in {country} (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus types, fee discount notes, KYC requirements, and deposit methods in {country}. Check availability by exchange and trade type.",
+    "updated": "Updated",
+    "title": "Best Crypto Exchange Bonus Codes in {country}",
+    "subtitle": "Compare signup rewards, fee discounts, and trading rewards available in {country}. Availability can vary by campaign rules and account status.",
+    "summary": {
+      "recommended": "Recommended exchanges",
+      "kyc": "KYC requirement",
+      "deposit": "Deposit methods",
+      "beginner": "Beginner friendliness"
+    },
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "beginner_score": {
+      "high": "High",
+      "medium": "Medium"
+    },
+    "table_title": "Exchange comparison",
+    "table_subtitle": "Sort and filter by trade type and bonus type. Always verify official terms before registering.",
+    "filter_trade_type": "Trade type",
+    "filter_bonus_type": "Bonus type",
+    "sort": "Sort",
+    "sort_status": "Availability",
+    "sort_name": "Name",
+    "all": "All",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "col": {
+      "exchange": "Exchange",
+      "availability": "Availability",
+      "bonus_type": "Bonus type",
+      "fee_discount": "Fee discount",
+      "kyc": "KYC",
+      "deposit": "Deposit methods",
+      "best_for": "Best for",
+      "action": "Action"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "none": "None",
+    "view_exchange": "View exchange",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "steps_title": "How to claim bonuses (step-by-step)",
+    "step": {
+      "1_label": "Step 1",
+      "1_title": "Pick an exchange and open the official sign-up page",
+      "1_desc": "Use our exchange guide page to access the correct registration link and verified referral code notes.",
+      "2_label": "Step 2",
+      "2_title": "Complete registration and enter code if required",
+      "2_desc": "If the exchange supports referral codes, enter the code during sign-up. Some benefits require sign-up-time entry.",
+      "3_label": "Step 3",
+      "3_title": "Complete KYC and deposit requirements (if required)",
+      "3_desc": "Many campaigns require KYC and/or a first deposit. Requirements can vary by country and account status.",
+      "4_label": "Step 4",
+      "4_title": "Finish tasks and check the rewards center",
+      "4_desc": "Trading tasks, volume thresholds, and deadlines are common. Always check the exchange bonus center."
+    },
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Do bonuses work in {country}?",
+      "a1": "Many bonuses are region-dependent. Use the availability checker and confirm official terms before registering.",
+      "q2": "Do I need KYC in {country}?",
+      "a2": "KYC requirements vary by exchange and campaign. Some rewards require KYC even if basic trading does not.",
+      "q3": "Can rewards change over time?",
+      "a3": "Yes. Campaign rules, bonus amounts, and fee discounts can change without notice.",
+      "q4": "Are these rewards guaranteed?",
+      "a4": "No. This site provides informational estimates only. Always confirm the official exchange terms."
+    },
+    "risk_title": "Notes & risk",
+    "cta_check": "Check your best bonus",
+    "cta_calc": "Use calculator",
+    "cta_back": "Back to countries"
+  },
+  "CountryComparison": {
+    "meta_title": "{a} vs {b}: Country Bonus Availability (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus availability, limitations, and exchange support between {a} and {b}. Rewards may vary by region and campaign rules.",
+    "title": "{a} vs {b}: Crypto Exchange Bonus Availability",
+    "subtitle": "Compare availability labels across major exchanges. Always verify official terms before registering.",
+    "col": {
+      "exchange": "Exchange"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "conclusion_title": "Conclusion",
+    "conclusion_winner": "Based on this simplified listing, {winner} looks more flexible overall.",
+    "conclusion_tie": "Both locations look similar based on this simplified listing."
+  },
+  "Guides": {
+    "title": "Rehberler",
+    "subtitle": "Kayıt olmadan önce referans kodlarının, kayıt bonuslarının ve ücret indirimlerinin nasıl çalıştığını öğrenin.",
+    "guide1": {
+      "title": "Kripto referans kodu nasıl kullanılır",
+      "desc": "Adım adım yönergeler ve kaçınılması gereken yaygın hatalar."
+    }
+  },
+  "GuideReferralCode": {
+    "title": "Kripto referans kodu nasıl kullanılır",
+    "subtitle": "Referans kodlarını doğru girmek ve yaygın hatalardan kaçınmak için kısa ve pratik bir rehber.",
+    "steps_title": "Adım adım",
+    "step1": "Resmi kayıt sayfasını açın (tercihen referans bağlantısıyla).",
+    "step2": "İsteğe bağlı “Referral / Invitation / Promo” alanını bulun.",
+    "step3": "Kodu yapıştırın ve kaydı gönderin.",
+    "step4": "Kayıttan sonra, ödüller için gerekiyorsa KYC tamamlayın.",
+    "step5": "Görevler ve son tarihler için ödül/bonus merkezini kontrol edin.",
+    "mistakes_title": "Yaygın hatalar",
+    "mistake1": "Önce kayıt olup sonra kod eklemeye çalışmak.",
+    "mistake2": "Başka bir borsa veya bölge için olan kodu kullanmak.",
+    "mistake3": "Yatırma/işlem şartlarını ve ödül süresini göz ardı etmek.",
+    "mistake4": "Mevcut kampanyanın resmi şartlarını kontrol etmemek.",
+    "faq_title": "SSS",
+    "faq": {
+      "q1": "Referans kodları her zaman çalışır mı?",
+      "a1": "Genellikle sadece kayıt sırasında ve borsa bölgenizi destekliyorsa çalışır. Bazı kampanyalar süreli olabilir.",
+      "q2": "Kayıttan sonra referans kodu ekleyebilir miyim?",
+      "a2": "Çoğu zaman hayır. Resmi destek aksini doğrulamadıkça “kayıt sırasında girilmeli” kabul edin.",
+      "q3": "Bonus neden hemen yatmıyor?",
+      "a3": "Bonuslar KYC, yatırma veya işlem görevleri gerektirebilir. Birçok ödül, şartları tamamladıktan sonra aşamalı olarak verilir."
+    }
+  },
+  "Best": {
+    "title": "2026'da En İyi Kripto Borsa Bonus Kodları",
+    "subtitle": "Bonus türlerini, ücret indirimi notlarını ve hangi borsanın kimler için uygun olabileceğini karşılaştırmak için pratik bir başlangıç noktası.",
+    "quick_comparison": "Hızlı karşılaştırma",
+    "best_for": "En uygun",
+    "risk_note": "Bu basitleştirilmiş bir özet. Ödüller, indirimler ve uygunluk ülkeye, kampanyaya ve hesap durumuna göre değişebilir. Her zaman resmi şartları kontrol edin."
   }
 }

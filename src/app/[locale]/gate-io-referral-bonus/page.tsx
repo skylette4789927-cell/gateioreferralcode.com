@@ -2,11 +2,12 @@ import {getTranslations} from 'next-intl/server';
 import Header from '@/components/Header';
 import BonusTable from '@/components/BonusTable';
 import ReferralCard from '@/components/ReferralCard';
-export const runtime = 'edge'
+export const runtime = 'edge';
+
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'ReferralBonus'});
-  const baseUrl = 'https://gateioreferralcode.com';
+  const baseUrl = 'https://exchangebonuscode.com';
   const path = 'gate-io-referral-bonus';
 
   return {
@@ -22,13 +23,14 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
         tr: `${baseUrl}/tr/${path}`,
         id: `${baseUrl}/id/${path}`,
         ru: `${baseUrl}/ru/${path}`,
+        zh: `${baseUrl}/zh/${path}`
       },
     },
     openGraph: {
       title: t('title'),
       description: t('description'),
       url: `${baseUrl}/${locale}/${path}`,
-      siteName: 'Gate.io Referral Code Hub',
+      siteName: 'Exchange Bonus Code',
       type: 'article',
       locale: locale,
     },

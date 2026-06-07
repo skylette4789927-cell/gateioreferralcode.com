@@ -1,18 +1,23 @@
 {
   "Index": {
-    "title": "Kode Referral Gate 2026: Dapatkan Bonus $5000 | gateioreferralcode.com",
-    "description": "Gunakan kode referral resmi Gate.io untuk klaim bonus sambutan hingga $5000. Kode undangan Gate.io terbaik untuk diskon biaya dan hadiah."
+    "title": "Kode Bonus Exchange Kripto Terbaik 2026 | exchangebonuscode.com",
+    "description": "Bandingkan bonus pendaftaran, kode referral, dan diskon biaya trading. Hadiah dapat berbeda menurut wilayah dan kampanye."
   },
   "Header": {
     "home": "Beranda",
+    "bonus_codes": "Kode Bonus",
+    "compare": "Bandingkan",
+    "calculators": "Kalkulator",
+    "countries": "Negara",
+    "guides": "Panduan",
     "invitation_code": "Kode Undangan",
     "bonus": "Bonus",
     "guide": "Panduan",
     "blog": "Blog"
   },
   "Hero": {
-    "title": "Kode Referral Gate.io (2026) Dapatkan Bonus hingga $5,000",
-    "subtitle": "Gunakan kode undangan Gate.io terbaru untuk membuka hadiah trading dan diskon biaya.",
+    "title": "Kode referral Gate.io (2026): panduan bonus & diskon biaya",
+    "subtitle": "Gunakan kode referral saat mendaftar untuk mengakses hadiah kampanye dan potensi diskon biaya (ketersediaan bisa berbeda).",
     "cta": "Klaim Bonus di Gate.io"
   },
   "ReferralCard": {
@@ -20,7 +25,7 @@
     "subtitle": "Eksklusif untuk Pengguna Baru",
     "copy": "Salin Kode",
     "copied": "Disalin ✓",
-    "benefit1": "Bonus sambutan hingga $5,000",
+    "benefit1": "Hadiah sambutan potensial (dapat berbeda)",
     "benefit2": "Diskon biaya trading",
     "benefit3": "Hadiah kampanye eksklusif",
     "register": "Daftar Sekarang"
@@ -77,7 +82,7 @@
     "description": "Kode undangan Gate.io terbaru untuk pengguna baru. Daftar sekarang untuk membuka bonus trading eksklusif dan pengurangan biaya."
   },
   "ReferralBonus": {
-    "title": "Panduan Bonus Referral Gate.io 2026: Cara Klaim $5000",
+    "title": "Panduan bonus referral Gate.io 2026: syarat & cara klaim",
     "description": "Panduan lengkap tentang bonus referral Gate.io. Pelajari cara mendapatkan bonus sambutan, hadiah deposit, dan rabat biaya trading."
   },
   "ReferralReddit": {
@@ -93,11 +98,641 @@
     "description": "Panduan langkah demi langkah tentang penggunaan ID Referral Gate.io saat pendaftaran. Pastikan Anda tidak melewatkan bonus pendaftaran."
   },
   "Footer": {
-    "rights_reserved": "Pusat Kode Referral. Hak cipta dilindungi undang-undang."
+    "rights_reserved": "Hak cipta dilindungi."
   },
   "Blog": {
     "title": "Blog & Panduan Gate.io",
     "description": "Berita terbaru, tutorial, dan panduan tentang exchange Gate.io.",
     "read_more": "Baca Selengkapnya"
+  },
+  "Common": {
+    "copy_code": "Salin kode",
+    "copied": "Disalin",
+    "register": "Daftar",
+    "view_details": "Lihat detail",
+    "calculate_value": "Hitung nilai",
+    "view_code": "Lihat kode",
+    "best_for": "Cocok untuk",
+    "updated": "Diperbarui",
+    "add_to_favorites": "Tambahkan ke favorit",
+    "remove_from_favorites": "Hapus dari favorit"
+  },
+  "Disclaimer": {
+    "text": "Hadiah, bonus, dan diskon biaya dapat berbeda menurut negara, kampanye, dan status akun. Situs ini hanya memberikan estimasi informasi dan bukan nasihat keuangan. Selalu konfirmasi syarat resmi di exchange sebelum mendaftar atau trading."
+  },
+  "Exchange": {
+    "referral_code_label": "Kode referral {name}",
+    "bonus_type": {
+      "signup": "pendaftaran",
+      "trading": "trading",
+      "fee_discount": "diskon biaya",
+      "voucher": "voucher",
+      "cashback": "cashback"
+    },
+    "bonus_type_help": {
+      "signup": "Reward pendaftaran untuk akun baru (tergantung kampanye dan wilayah).",
+      "trading": "Tugas trading, syarat volume, atau rebate yang terkait aktivitas trading.",
+      "fee_discount": "Biaya trading lebih rendah (dapat berbeda menurut VIP, token, dan wilayah).",
+      "voucher": "Voucher yang bisa digunakan sebagai kredit biaya atau benefit kampanye tertentu.",
+      "cashback": "Cashback atau rebate setelah memenuhi syarat tertentu."
+    },
+    "best_for_tag": {
+      "altcoins": "altcoin",
+      "new_listings": "listing baru",
+      "derivatives": "derivatif",
+      "advanced_traders": "trader lanjutan",
+      "liquidity": "likuiditas",
+      "low_spreads": "spread rendah"
+    },
+    "table": {
+      "exchange": "Exchange",
+      "bonus_types": "Jenis bonus",
+      "best_for": "Cocok untuk",
+      "action": "Aksi"
+    }
+  },
+  "ExchangeDetail": {
+    "title": "Kode referral {name} 2026: bonus, hadiah & diskon biaya",
+    "subtitle": "Bandingkan jenis bonus, pahami syarat, dan hitung potensi penghematan biaya sebelum mendaftar.",
+    "how": {
+      "title": "Cara menggunakan kode",
+      "step1": "Buka halaman pendaftaran resmi.",
+      "step2": "Cari kolom referral / undangan (opsional).",
+      "step3": "Tempel kode dan selesaikan pendaftaran.",
+      "step4": "Setelah mendaftar, cek pusat bonus/hadiah."
+    },
+    "rewards": {
+      "title": "Hadiah apa yang mungkin tersedia",
+      "item1": "Hadiah pendaftaran (tergantung kampanye).",
+      "item2": "Diskon biaya trading (tergantung tier dan wilayah).",
+      "item3": "Voucher/rabat berbasis tugas (bisa ada syarat deposit/trading/KYC).",
+      "cta": "Estimasi nilai potensial"
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Apa itu kode referral {name}?",
+      "a1": "Kode referral adalah kode opsional yang bisa Anda masukkan saat pendaftaran. Manfaatnya bisa berupa diskon biaya atau hadiah kampanye, tergantung wilayah dan promosi saat ini.",
+      "q2": "Di mana saya memasukkan kode di {name}?",
+      "a2": "Sebagian besar exchange menampilkan kolom referral/undangan saat pendaftaran. Jika tidak terlihat, buka kembali halaman resmi dengan tautan referral dan cari kolom opsional tersebut.",
+      "q3": "Bisakah saya mengubah/menambahkan kode setelah daftar?",
+      "a3": "Beberapa exchange memungkinkan, banyak yang tidak. Anggap kode referral hanya bisa diisi saat pendaftaran kecuali pusat bantuan resmi mengatakan sebaliknya.",
+      "q4": "Apakah hadiah dijamin?",
+      "a4": "Tidak. Hadiah dan diskon biaya dapat berubah berdasarkan negara, status KYC, jumlah deposit, tugas trading, dan aturan kampanye. Selalu konfirmasi syarat resmi."
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "Kode bonus exchange kripto terbaik 2026",
+      "subtitle": "Bandingkan bonus pendaftaran terverifikasi, diskon biaya trading, kode referral, dan syarat hadiah sebelum mendaftar.",
+      "cta_compare": "Bandingkan kode",
+      "cta_best": "Cari bonus terbaik",
+      "cta_calc": "Hitung hadiah"
+    },
+    "quick_calc": {
+      "title": "Kalkulator cepat",
+      "subtitle": "Masukkan negara, tipe trading, dan volume untuk memperkirakan penghematan biaya.",
+      "full_calc": "Kalkulator lengkap",
+      "country": "Negara",
+      "trade_type": "Tipe trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "monthly_volume": "Volume bulanan (USD)",
+      "best_match": "Paling cocok (estimasi)",
+      "annual_savings": "Perkiraan penghematan biaya tahunan: {low}–{high}",
+      "discount_range": "Perkiraan rentang diskon: {low}–{high}",
+      "view_code": "Lihat kode",
+      "compare": "Bandingkan",
+      "note": "Estimasi ini disederhanakan dan mungkin tidak mencakup tier VIP, diskon token, atau aturan kampanye."
+    },
+    "finder": {
+      "title": "Pencari bonus",
+      "subtitle": "Jawab beberapa pertanyaan untuk menemukan kode yang cocok untuk Anda.",
+      "experience": "Pengalaman",
+      "experience_new": "Pemula",
+      "experience_experienced": "Berpengalaman",
+      "trade_type": "Tipe trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "preference": "Prioritas",
+      "preference_bonus": "Bonus",
+      "preference_fees": "Biaya lebih rendah",
+      "country": "Negara",
+      "result_title": "Rekomendasi",
+      "best_match": "Paling cocok: {name}",
+      "why": "Berdasarkan preferensi Anda dan ketersediaan di {country}.",
+      "alternatives": "Alternatif",
+      "cta_view": "Lihat kode",
+      "cta_calc": "Hitung nilai",
+      "empty": "Pilih opsi untuk melihat rekomendasi.",
+      "note": "Rekomendasi sederhana. Selalu konfirmasi syarat resmi."
+    },
+    "featured": {
+      "title": "Kode bonus pilihan"
+    },
+    "table": {
+      "title": "Tabel perbandingan",
+      "subtitle": "Perbandingan cepat jenis bonus dan siapa yang cocok untuk tiap exchange."
+    },
+    "compare": {
+      "title": "Perbandingan interaktif",
+      "trade_type": "Tipe trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "sort": "Urutkan",
+      "sort_low_fee": "Biaya terendah (estimasi)",
+      "sort_best_bonus": "Bonus paling cocok",
+      "est_fee": "Perkiraan biaya tahunan",
+      "cta": "Lihat kode",
+      "note": "Pengurutan menggunakan asumsi sederhana dan mungkin tidak sama dengan tier biaya sebenarnya."
+    },
+    "recent": {
+      "title": "Terakhir dilihat",
+      "subtitle": "Kembali cepat ke halaman yang Anda buka sebelumnya.",
+      "empty": "Belum ada exchange yang dilihat baru-baru ini."
+    },
+    "favorites": {
+      "title": "Favorit",
+      "subtitle": "Simpan exchange untuk dibandingkan nanti.",
+      "empty": "Belum ada favorit."
+    },
+    "faq_title": "Penjelasan aturan bonus",
+    "faq": {
+      "q1": "Apa itu kode bonus exchange?",
+      "a1": "Kode bonus atau kode referral adalah kode opsional saat pendaftaran yang bisa membuka diskon biaya atau hadiah kampanye, tergantung wilayah dan promosi.",
+      "q2": "Apakah bonus dijamin?",
+      "a2": "Tidak. Hadiah dapat berubah berdasarkan negara, KYC, jumlah deposit, tugas trading, dan aturan kampanye. Selalu cek syarat resmi.",
+      "q3": "Apa beda bonus dan diskon biaya?",
+      "a3": "Bonus biasanya hadiah kampanye dengan syarat. Diskon biaya mengurangi biaya trading dan bergantung pada tier biaya, diskon token, atau program referral.",
+      "q4": "Bisakah saya memasukkan kode setelah daftar?",
+      "a4": "Seringnya tidak. Banyak exchange hanya menerima kode referral saat pendaftaran, kecuali pusat bantuan resmi mengizinkan perubahan."
+    },
+    "countries": {
+      "title": "Panduan negara",
+      "subtitle": "Mulai dari lokasi populer. Ketersediaan dapat berubah.",
+      "view_all": "Lihat semua"
+    },
+    "updates": {
+      "title": "Pembaruan bonus",
+      "subtitle": "Ikuti kampanye terbaru, perubahan kode, dan pembaruan diskon biaya.",
+      "item1_title": "Kampanye terbaru",
+      "item1_desc": "Promo pendaftaran atau trading baru di berbagai exchange.",
+      "item2_title": "Perubahan kode",
+      "item2_desc": "Saat kode atau tautan terverifikasi diperbarui di situs ini.",
+      "item3_title": "Pembaruan diskon biaya",
+      "item3_desc": "Perubahan tier biaya atau rentang diskon."
+    }
+  },
+  "CountryBonus": {
+    "title": "Kode bonus exchange kripto terbaik di {country}",
+    "subtitle": "Bandingkan kode bonus dan diskon biaya yang tersedia di {country}. Hadiah dapat berbeda menurut wilayah dan kampanye.",
+    "cta_compare": "Bandingkan kode",
+    "cta_calc": "Hitung nilai",
+    "featured": "Kode pilihan",
+    "notes_title": "Catatan",
+    "note1": "Ketersediaan dapat berubah karena regulasi lokal dan persyaratan KYC.",
+    "note2": "Bonus dan diskon dapat berbeda menurut kampanye dan status akun.",
+    "note3": "Selalu verifikasi syarat resmi sebelum mendaftar atau trading."
+  },
+  "BonusCodes": {
+    "title": "Database kode bonus",
+    "subtitle": "Jelajahi daftar dan bandingkan jenis bonus, syarat, serta catatan diskon biaya.",
+    "search_label": "Cari",
+    "search_placeholder": "Ketik nama exchange",
+    "sort_label": "Urutkan",
+    "sort_featured": "Unggulan",
+    "sort_updated": "Terbaru diperbarui",
+    "sort_max_discount": "Diskon maks.",
+    "sort_name": "Nama (A–Z)",
+    "filters_label": "Filter",
+    "bonus_type_signup": "Pendaftaran",
+    "bonus_type_trading": "Trading",
+    "bonus_type_fees": "Diskon biaya",
+    "bonus_type_voucher": "Voucher",
+    "bonus_type_cashback": "Cashback",
+    "favorites_only": "Hanya favorit",
+    "clear_filters": "Bersihkan",
+    "results_count": "{count} hasil",
+    "open_exchange": "Buka detail {name}",
+    "calculator_title": "Hitung nilai untuk {name}",
+    "calculator_subtitle": "Estimasi penghematan biaya berdasarkan volume dan asumsi biaya.",
+    "calculator_result": "Estimasi",
+    "calculator_savings": "Estimasi penghematan biaya tahunan: {low}–{high}",
+    "calculator_discount": "Rentang diskon estimasi: {low}–{high}",
+    "calculator_full": "Buka kalkulator penuh",
+    "close": "Tutup"
+  },
+  "Compare": {
+    "title": "Bandingkan kode bonus",
+    "subtitle": "Bandingkan jenis bonus dan catatan diskon biaya di exchange kripto utama."
+  },
+  "CompareTool": {
+    "pick_title": "Pilih hingga 3 exchange",
+    "pick_note": "Ini perbandingan sederhana. Hadiah dan ketersediaan dapat berbeda menurut negara dan aturan kampanye.",
+    "result_title": "Hasil",
+    "best_match": "Pilihan terbaik (estimasi)",
+    "bonus_types": "Jenis bonus",
+    "best_for": "Cocok untuk",
+    "view_referral": "Lihat kode referral {name}",
+    "empty": "Pilih minimal satu exchange untuk melihat hasil."
+  },
+  "Calculators": {
+    "title": "Crypto Bonus & Fee Calculators",
+    "subtitle": "Estimate potential exchange rewards, trading fee savings, referral code validity, and bonus requirements before you register.",
+    "cta_bonus": "Calculate My Bonus Value",
+    "cta_checker": "Check Referral Code",
+    "preview": {
+      "title": "Quick preview",
+      "savings_label": "Estimated yearly fee savings",
+      "savings_value": "$48 – $126",
+      "best_label": "Best match",
+      "best_value": "OKX / Binance / Gate.io",
+      "status_label": "Status",
+      "status_value": "Region dependent",
+      "note": "Estimates only. Actual rewards and fee discounts can vary by country, KYC status, deposit amount, trading volume, and official exchange rules."
+    },
+    "badge": {
+      "highest": "Highest",
+      "high": "High",
+      "soon": "Soon"
+    },
+    "main_tools": {
+      "title": "Core tools",
+      "subtitle": "Use these to go from browsing to decision-making before you sign up."
+    },
+    "bonus_value": {
+      "title": "Kalkulator nilai bonus",
+      "desc": "Estimate potential bonus value and yearly trading fee savings, plus a best-match score.",
+      "inputs": "Inputs: exchange, country, deposit, monthly volume, trading type",
+      "cta": "Start calculating →"
+    },
+    "checker": {
+      "title": "Pemeriksa kode referral",
+      "desc": "Check whether a referral code format looks valid and matches verified listings on this site.",
+      "inputs": "Inputs: exchange, code, country, new user",
+      "cta": "Check a code →"
+    },
+    "fee_savings": {
+      "title": "Trading Fee Savings Calculator",
+      "desc": "Estimate how much you could save per year from fee discounts based on your trading volume.",
+      "inputs": "Inputs: exchange, spot/futures, maker/taker, volume, discounts",
+      "cta": "Estimate savings →"
+    },
+    "country_checker": {
+      "title": "Country Availability Checker",
+      "desc": "Check whether exchange bonuses may be available in your country and what conditions to expect.",
+      "inputs": "Inputs: country, exchange, new user, spot/futures",
+      "cta": "Check availability →"
+    },
+    "coming": {
+      "title": "More tools coming",
+      "subtitle": "These will be added in the next phase to reduce drop-off and improve decision confidence.",
+      "requirement": {
+        "title": "Bonus Requirement Checker",
+        "desc": "Estimate how hard it is to qualify for a bonus based on typical requirements."
+      },
+      "finder": {
+        "title": "Best Bonus Finder",
+        "desc": "Answer a few questions to get a best-match exchange + bonus suggestion."
+      },
+      "checklist": {
+        "title": "Bonus Claim Checklist",
+        "desc": "A step-by-step checklist so you don’t miss any claim requirements."
+      },
+      "tracker": {
+        "title": "Reward Tracker",
+        "desc": "Track your own bonus tasks and deadlines using local storage (no login)."
+      }
+    }
+  },
+  "CalculatorPage": {
+    "title": "Crypto Exchange Bonus Value Calculator",
+    "subtitle": "Estimate potential bonus value, fee savings, referral code impact, and eligibility notes before you register. Results are estimates only."
+  },
+  "Calculator": {
+    "inputs": "Input",
+    "country": "Country",
+    "exchange": "Exchange",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "trade_type": "Jenis trading",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "first_deposit": "Deposit pertama (USD)",
+    "first_deposit_placeholder": "100",
+    "monthly_volume": "Volume trading bulanan (USD)",
+    "monthly_volume_placeholder": "1000",
+    "output_estimate": "Output (estimasi)",
+    "output_country_exchange": "{country} · {exchange}",
+    "match_score": "Bonus Match Score: {score}/100",
+    "fee_savings_title": "Estimated fee savings",
+    "best_match_title": "Recommended exchange",
+    "best_match_note": "Availability: {status}. Compare exchanges if you’re deciding between options.",
+    "requirements_title": "Requirements you may need",
+    "cta_compare": "Compare exchanges",
+    "availability_available": "Available",
+    "availability_limited": "Region dependent",
+    "availability_not_confirmed": "Not confirmed",
+    "use_referral": "Use referral code?",
+    "use_referral_note": "Most exchanges only accept referral codes during sign-up.",
+    "hold_token": "Holding exchange token?",
+    "hold_token_note": "Some exchanges offer additional fee discounts for token holding.",
+    "req_new_account": "New account registration",
+    "req_referral_code": "Referral code entered during signup",
+    "req_kyc": "KYC verification",
+    "req_deposit_or_trade": "Deposit or trading task may be required",
+    "output_exchange": "Exchange",
+    "output_annual_volume": "Volume trading tahunan (asumsi)",
+    "output_assumed_fees": "Biaya tahunan (asumsi, pakai taker fee):",
+    "output_savings_range": "Perkiraan penghematan ({low}–{high}):",
+    "per_year": "/ tahun",
+    "deposit_note_value": "deposit pertama {value}",
+    "deposit_note_default": "deposit pertama Anda",
+    "output_note": "Estimasi ini memakai asumsi biaya sederhana dan tidak mencakup VIP tier, maker rebate, diskon token, atau aturan kampanye tertentu. Hadiah bisa memerlukan {depositNote}, KYC, dan/atau tugas trading."
+  },
+  "ReferralCheckerPage": {
+    "title": "Pemeriksa kode referral",
+    "subtitle": "Check code format, verified listing status, and region-dependent notes before you register. Most referral codes must be entered during sign-up."
+  },
+  "ReferralChecker": {
+    "inputs": "Input",
+    "exchange": "Exchange",
+    "referral_code": "Kode referral",
+    "referral_code_placeholder": "Masukkan kode",
+    "country": "Country",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "result": "Hasil",
+    "status_enter": "Enter a code to check format and listing status.",
+    "status_invalid_title": "Status: Code format may be invalid",
+    "status_invalid_desc": "Please check the exchange name and code again.",
+    "status_valid_title": "Status: Format looks valid",
+    "status_valid_unverified_desc": "This code is not listed as a verified code on our site. Benefits may vary.",
+    "status_verified_title": "Status: Verified listing on ExchangeBonusCode.com",
+    "status_verified_desc": "This code matches a verified listing for the selected exchange.",
+    "cta_use_code": "Use this code",
+    "cta_view_bonus": "View bonus details",
+    "cta_compare_verified": "Compare verified codes",
+    "copied": "Copied",
+    "existing_user_title": "Existing user warning",
+    "existing_user_desc": "Many exchanges only accept referral codes during sign-up. Existing users may not be able to add a code later.",
+    "note": "Country: {country}. Benefits may vary by region and campaign rules. Always verify on the official {name} signup page before registering."
+  },
+  "FeeSavingsPage": {
+    "title": "Crypto Trading Fee Savings Calculator",
+    "subtitle": "Estimate how much you might save with fee discounts (referral codes, token holding, or tier assumptions). Results are estimates only."
+  },
+  "FeeSavings": {
+    "inputs": "Inputs",
+    "exchange": "Exchange",
+    "trade_type": "Trading type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "fee_side": "Maker or taker",
+    "fee_side_maker": "Maker",
+    "fee_side_taker": "Taker",
+    "monthly_volume": "Monthly trading volume (USD)",
+    "monthly_volume_placeholder": "5000",
+    "trading_months": "Trading months",
+    "use_referral": "Use referral code",
+    "use_referral_note": "Some discounts may require entering a code during sign-up.",
+    "hold_token": "Hold exchange token",
+    "hold_token_note": "Additional discounts may apply when holding the exchange token.",
+    "output": "Output (estimate)",
+    "level": {
+      "low": "Low savings",
+      "medium": "Medium savings",
+      "high": "High savings"
+    },
+    "original_fee": "Original estimated fee",
+    "original_fee_note": "Based on {months} months of volume and a simplified fee assumption.",
+    "after_discount": "Estimated fee after discount",
+    "after_discount_note": "Shown as a range to avoid over-promising.",
+    "savings": "Potential savings",
+    "savings_note": "Higher trading frequency can make fee discounts more valuable than one-time signup bonuses.",
+    "disclaimer": "This is an estimate only. Rewards, bonuses, and fee discounts may vary by country, campaign, KYC status, deposit amount, trading volume, and official exchange rules."
+  },
+  "Countries": {
+    "hub_title": "Crypto Exchange Bonus Codes by Country",
+    "hub_subtitle": "Rewards vary by country due to KYC rules, product availability, and local payment methods. Search and filter to find the best match for your location.",
+    "hub_meta_title": "Crypto Exchange Bonus Codes by Country (2026) | ExchangeBonusCode",
+    "hub_meta_description": "Browse country bonus guides and quickly check availability by country, KYC, trade type, and deposit method. Rewards may vary by region and campaign rules.",
+    "search_label": "Search",
+    "search_placeholder": "Search a country or region",
+    "filter_region": "Region",
+    "filter_kyc": "KYC",
+    "filter_trade_type": "Spot/Futures",
+    "filter_deposit_method": "Deposit method",
+    "all": "All",
+    "kyc": "KYC",
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "deposit_methods": "Deposit methods",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "favorites_only": "Favorites only",
+    "clear_filters": "Clear",
+    "results_count": "{count} results",
+    "recently_viewed": "Recently viewed",
+    "popular_comparisons_title": "Popular country comparisons",
+    "popular_comparisons_subtitle": "Quickly compare bonus availability across two locations.",
+    "recommended": "Recommended",
+    "view_guide": "View guide",
+    "check_availability": "Check availability",
+    "tag_high_bonus": "High bonus potential",
+    "tag_easy_deposit": "Easy deposit",
+    "tag_kyc_required": "KYC required",
+    "updated": "Updated",
+    "open_country": "Open {name} country guide",
+    "favorite_add": "Add to favorites",
+    "favorite_remove": "Remove from favorites",
+    "region": {
+      "Asia": "Asia",
+      "Middle East": "Middle East",
+      "Oceania": "Oceania",
+      "North America": "North America",
+      "South America": "South America",
+      "Europe": "Europe",
+      "Africa": "Africa"
+    }
+  },
+  "AvailabilityCheckerPage": {
+    "title": "Country Availability Checker",
+    "subtitle": "Select country, exchange, user type, and trade type to see availability and reward notes. Results are informational and can vary by campaign rules."
+  },
+  "AvailabilityChecker": {
+    "inputs": "Inputs",
+    "country": "Country",
+    "exchange": "Exchange",
+    "user_type": "User type",
+    "user_type_new": "New user",
+    "user_type_existing": "Existing user",
+    "trade_type": "Trade type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "cta_check": "Check availability",
+    "history": "History",
+    "output": "Output",
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "tag_verified": "Verified",
+    "tag_region_dependent": "Region dependent",
+    "tag_kyc_needed": "KYC needed",
+    "bonus_types": "Bonus types",
+    "no_bonus": "No bonus listed",
+    "deposit_methods": "Deposit methods",
+    "updated": "Updated",
+    "alternatives": "Alternative options",
+    "disclaimer": "Rewards may vary by country, campaign, and account status. Always confirm official terms on the exchange before registering or trading."
+  },
+  "CountryDetail": {
+    "meta_title": "Best Crypto Exchange Bonus Codes in {country} (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus types, fee discount notes, KYC requirements, and deposit methods in {country}. Check availability by exchange and trade type.",
+    "updated": "Updated",
+    "title": "Best Crypto Exchange Bonus Codes in {country}",
+    "subtitle": "Compare signup rewards, fee discounts, and trading rewards available in {country}. Availability can vary by campaign rules and account status.",
+    "summary": {
+      "recommended": "Recommended exchanges",
+      "kyc": "KYC requirement",
+      "deposit": "Deposit methods",
+      "beginner": "Beginner friendliness"
+    },
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "beginner_score": {
+      "high": "High",
+      "medium": "Medium"
+    },
+    "table_title": "Exchange comparison",
+    "table_subtitle": "Sort and filter by trade type and bonus type. Always verify official terms before registering.",
+    "filter_trade_type": "Trade type",
+    "filter_bonus_type": "Bonus type",
+    "sort": "Sort",
+    "sort_status": "Availability",
+    "sort_name": "Name",
+    "all": "All",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "col": {
+      "exchange": "Exchange",
+      "availability": "Availability",
+      "bonus_type": "Bonus type",
+      "fee_discount": "Fee discount",
+      "kyc": "KYC",
+      "deposit": "Deposit methods",
+      "best_for": "Best for",
+      "action": "Action"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "none": "None",
+    "view_exchange": "View exchange",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "steps_title": "How to claim bonuses (step-by-step)",
+    "step": {
+      "1_label": "Step 1",
+      "1_title": "Pick an exchange and open the official sign-up page",
+      "1_desc": "Use our exchange guide page to access the correct registration link and verified referral code notes.",
+      "2_label": "Step 2",
+      "2_title": "Complete registration and enter code if required",
+      "2_desc": "If the exchange supports referral codes, enter the code during sign-up. Some benefits require sign-up-time entry.",
+      "3_label": "Step 3",
+      "3_title": "Complete KYC and deposit requirements (if required)",
+      "3_desc": "Many campaigns require KYC and/or a first deposit. Requirements can vary by country and account status.",
+      "4_label": "Step 4",
+      "4_title": "Finish tasks and check the rewards center",
+      "4_desc": "Trading tasks, volume thresholds, and deadlines are common. Always check the exchange bonus center."
+    },
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Do bonuses work in {country}?",
+      "a1": "Many bonuses are region-dependent. Use the availability checker and confirm official terms before registering.",
+      "q2": "Do I need KYC in {country}?",
+      "a2": "KYC requirements vary by exchange and campaign. Some rewards require KYC even if basic trading does not.",
+      "q3": "Can rewards change over time?",
+      "a3": "Yes. Campaign rules, bonus amounts, and fee discounts can change without notice.",
+      "q4": "Are these rewards guaranteed?",
+      "a4": "No. This site provides informational estimates only. Always confirm the official exchange terms."
+    },
+    "risk_title": "Notes & risk",
+    "cta_check": "Check your best bonus",
+    "cta_calc": "Use calculator",
+    "cta_back": "Back to countries"
+  },
+  "CountryComparison": {
+    "meta_title": "{a} vs {b}: Country Bonus Availability (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus availability, limitations, and exchange support between {a} and {b}. Rewards may vary by region and campaign rules.",
+    "title": "{a} vs {b}: Crypto Exchange Bonus Availability",
+    "subtitle": "Compare availability labels across major exchanges. Always verify official terms before registering.",
+    "col": {
+      "exchange": "Exchange"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "conclusion_title": "Conclusion",
+    "conclusion_winner": "Based on this simplified listing, {winner} looks more flexible overall.",
+    "conclusion_tie": "Both locations look similar based on this simplified listing."
+  },
+  "Guides": {
+    "title": "Panduan",
+    "subtitle": "Pelajari cara kerja kode referral, bonus pendaftaran, dan diskon biaya sebelum mendaftar.",
+    "guide1": {
+      "title": "Cara menggunakan kode referral kripto",
+      "desc": "Langkah demi langkah dan kesalahan umum yang perlu dihindari."
+    }
+  },
+  "GuideReferralCode": {
+    "title": "Cara menggunakan kode referral kripto",
+    "subtitle": "Panduan singkat dan praktis untuk memasukkan kode dengan benar dan menghindari kesalahan umum.",
+    "steps_title": "Langkah demi langkah",
+    "step1": "Buka halaman pendaftaran resmi (sebaiknya lewat tautan referral).",
+    "step2": "Cari kolom opsional “Referral / Invitation / Promo”.",
+    "step3": "Tempel kode dan kirim pendaftaran.",
+    "step4": "Setelah daftar, selesaikan KYC jika diperlukan untuk hadiah.",
+    "step5": "Cek pusat bonus/hadiah untuk tugas dan tenggat waktu.",
+    "mistakes_title": "Kesalahan umum",
+    "mistake1": "Daftar dulu lalu mencoba menambahkan kode setelahnya.",
+    "mistake2": "Menggunakan kode untuk exchange atau wilayah lain.",
+    "mistake3": "Mengabaikan syarat deposit/trading dan masa berlaku hadiah.",
+    "mistake4": "Tidak mengecek syarat resmi kampanye saat ini.",
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Apakah kode referral selalu berfungsi?",
+      "a1": "Biasanya hanya berfungsi saat pendaftaran dan jika exchange mendukung wilayah Anda. Beberapa kampanye bisa terbatas waktu.",
+      "q2": "Bisakah saya menambahkan kode setelah daftar?",
+      "a2": "Seringnya tidak. Anggap kode harus diisi saat pendaftaran kecuali dukungan resmi mengatakan sebaliknya.",
+      "q3": "Kenapa bonus tidak masuk langsung?",
+      "a3": "Bonus bisa memerlukan KYC, deposit, atau tugas trading. Banyak hadiah diberikan bertahap setelah Anda memenuhi syarat."
+    }
+  },
+  "Best": {
+    "title": "Kode bonus exchange kripto terbaik 2026",
+    "subtitle": "Titik awal praktis untuk membandingkan jenis bonus, catatan diskon biaya, dan siapa yang cocok untuk tiap exchange.",
+    "quick_comparison": "Perbandingan cepat",
+    "best_for": "Cocok untuk",
+    "risk_note": "Ini ringkasan sederhana. Hadiah, diskon biaya, dan ketersediaan dapat berubah menurut negara, kampanye, dan status akun. Selalu konfirmasi syarat resmi."
   }
 }

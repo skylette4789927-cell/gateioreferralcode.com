@@ -1,11 +1,12 @@
 import {getTranslations} from 'next-intl/server';
 import Header from '@/components/Header';
 import ReferralCard from '@/components/ReferralCard';
-export const runtime = 'edge'
+export const runtime = 'edge';
+
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'ReferralReddit'});
-  const baseUrl = 'https://gateioreferralcode.com';
+  const baseUrl = 'https://exchangebonuscode.com';
   const path = 'gate-io-referral-code-reddit';
 
   return {
@@ -21,13 +22,14 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
         tr: `${baseUrl}/tr/${path}`,
         id: `${baseUrl}/id/${path}`,
         ru: `${baseUrl}/ru/${path}`,
+        zh: `${baseUrl}/zh/${path}`
       },
     },
     openGraph: {
       title: t('title'),
       description: t('description'),
       url: `${baseUrl}/${locale}/${path}`,
-      siteName: 'Gate.io Referral Code Hub',
+      siteName: 'Exchange Bonus Code',
       type: 'article',
       locale: locale,
     },
@@ -53,14 +55,14 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
               <span className="w-8 h-8 bg-orange-500 rounded-full mr-3 flex items-center justify-center text-white text-xs">u/</span>
               {t('user_a')}
             </div>
-            <p className="text-gray-700 dark:text-gray-300">"{t('review_a')}"</p>
+            <p className="text-gray-700 dark:text-gray-300">&quot;{t('review_a')}&quot;</p>
           </div>
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow border border-gray-200 dark:border-gray-700">
              <div className="font-bold text-gray-900 dark:text-white mb-2 flex items-center">
               <span className="w-8 h-8 bg-orange-500 rounded-full mr-3 flex items-center justify-center text-white text-xs">u/</span>
               {t('user_b')}
             </div>
-            <p className="text-gray-700 dark:text-gray-300">"{t('review_b')}"</p>
+            <p className="text-gray-700 dark:text-gray-300">&quot;{t('review_b')}&quot;</p>
           </div>
         </div>
       </main>

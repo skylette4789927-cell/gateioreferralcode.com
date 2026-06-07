@@ -5,6 +5,8 @@ import {routing} from '@/i18n/routing';
 import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
 
+type AppLocale = (typeof routing.locales)[number];
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -25,7 +27,7 @@ export default async function LocaleLayout({
   const {locale} = await params;
   
   // Ensure that the incoming `locale` is valid
-  if (!routing.locales.includes(locale as any)) {
+  if (!routing.locales.includes(locale as AppLocale)) {
     notFound();
   }
  
@@ -45,7 +47,7 @@ export default async function LocaleLayout({
 }
 
 export const metadata = {
-  metadataBase: new URL('https://gateioreferralcode.com'),
+  metadataBase: new URL('https://exchangebonuscode.com'),
   robots: {
     index: true,
     follow: true,

@@ -1,18 +1,23 @@
 {
   "Index": {
-    "title": "Mã Giới Thiệu Gate 2026: Nhận Thưởng $5000 | gateioreferralcode.com",
-    "description": "Sử dụng mã giới thiệu Gate.io chính thức để nhận tiền thưởng chào mừng lên đến $5000. Mã mời Gate.io tốt nhất để được giảm phí giao dịch và nhận thưởng."
+    "title": "Mã thưởng sàn giao dịch crypto tốt nhất năm 2026 | exchangebonuscode.com",
+    "description": "So sánh ưu đãi đăng ký, mã giới thiệu và giảm phí giao dịch. Phần thưởng có thể thay đổi theo khu vực và chiến dịch."
   },
   "Header": {
     "home": "Trang chủ",
+    "bonus_codes": "Mã thưởng",
+    "compare": "So sánh",
+    "calculators": "Công cụ tính",
+    "countries": "Quốc gia",
+    "guides": "Hướng dẫn",
     "invitation_code": "Mã mời",
     "bonus": "Phần thưởng",
     "guide": "Hướng dẫn",
     "blog": "Blog"
   },
   "Hero": {
-    "title": "Mã Giới Thiệu Gate.io (2026) Nhận Thưởng Đến $5,000",
-    "subtitle": "Sử dụng mã mời Gate.io mới nhất để mở khóa phần thưởng giao dịch và giảm phí.",
+    "title": "Mã giới thiệu Gate.io (2026): hướng dẫn thưởng & giảm phí",
+    "subtitle": "Dùng mã giới thiệu khi đăng ký để nhận ưu đãi chiến dịch và có thể được giảm phí (tùy khu vực).",
     "cta": "Nhận Thưởng trên Gate.io"
   },
   "ReferralCard": {
@@ -20,7 +25,7 @@
     "subtitle": "Dành Riêng Cho Người Dùng Mới",
     "copy": "Sao chép mã",
     "copied": "Đã sao chép ✓",
-    "benefit1": "Thưởng chào mừng lên đến $5,000",
+    "benefit1": "Ưu đãi chào mừng (có thể thay đổi)",
     "benefit2": "Giảm phí giao dịch",
     "benefit3": "Phần thưởng chiến dịch độc quyền",
     "register": "Đăng ký ngay"
@@ -77,7 +82,7 @@
     "description": "Mã mời Gate.io mới nhất cho người dùng mới. Đăng ký ngay để mở khóa phần thưởng giao dịch độc quyền và giảm phí."
   },
   "ReferralBonus": {
-    "title": "Hướng Dẫn Thưởng Giới Thiệu Gate.io 2026: Cách Nhận $5000",
+    "title": "Hướng dẫn thưởng giới thiệu Gate.io 2026: điều kiện & cách nhận",
     "description": "Hướng dẫn đầy đủ về các phần thưởng giới thiệu của Gate.io. Tìm hiểu cách nhận thưởng chào mừng, thưởng nạp tiền và hoàn phí giao dịch."
   },
   "ReferralReddit": {
@@ -93,11 +98,641 @@
     "description": "Hướng dẫn từng bước về cách sử dụng ID giới thiệu Gate.io khi đăng ký. Đảm bảo bạn không bỏ lỡ phần thưởng đăng ký."
   },
   "Footer": {
-    "rights_reserved": "Trung tâm Mã giới thiệu. Bảo lưu mọi quyền."
+    "rights_reserved": "Đã đăng ký bản quyền."
   },
   "Blog": {
     "title": "Blog & Hướng dẫn Gate.io",
     "description": "Tin tức mới nhất, hướng dẫn và bài viết về sàn giao dịch Gate.io.",
     "read_more": "Đọc thêm"
+  },
+  "Common": {
+    "copy_code": "Sao chép mã",
+    "copied": "Đã sao chép",
+    "register": "Đăng ký",
+    "view_details": "Xem chi tiết",
+    "calculate_value": "Tính giá trị",
+    "view_code": "Xem mã",
+    "best_for": "Phù hợp với",
+    "updated": "Cập nhật",
+    "add_to_favorites": "Thêm vào yêu thích",
+    "remove_from_favorites": "Bỏ khỏi yêu thích"
+  },
+  "Disclaimer": {
+    "text": "Phần thưởng, ưu đãi và giảm phí có thể thay đổi theo quốc gia, chiến dịch và trạng thái tài khoản. Thông tin trên trang chỉ mang tính tham khảo/ước tính và không phải lời khuyên tài chính. Hãy luôn kiểm tra điều khoản chính thức của sàn trước khi đăng ký hoặc giao dịch."
+  },
+  "Exchange": {
+    "referral_code_label": "Mã giới thiệu {name}",
+    "bonus_type": {
+      "signup": "đăng ký",
+      "trading": "giao dịch",
+      "fee_discount": "giảm phí",
+      "voucher": "voucher",
+      "cashback": "hoàn tiền"
+    },
+    "bonus_type_help": {
+      "signup": "Ưu đãi khi đăng ký tài khoản mới (phụ thuộc chiến dịch và khu vực).",
+      "trading": "Nhiệm vụ giao dịch, yêu cầu khối lượng hoặc hoàn phí liên quan đến hoạt động giao dịch.",
+      "fee_discount": "Giảm phí giao dịch (có thể thay đổi theo VIP, token và khu vực).",
+      "voucher": "Voucher có thể dùng làm credit phí hoặc quyền lợi chiến dịch.",
+      "cashback": "Hoàn tiền/hoàn phí sau khi đáp ứng điều kiện."
+    },
+    "best_for_tag": {
+      "altcoins": "altcoin",
+      "new_listings": "niêm yết mới",
+      "derivatives": "phái sinh",
+      "advanced_traders": "người giao dịch nâng cao",
+      "liquidity": "thanh khoản",
+      "low_spreads": "spread thấp"
+    },
+    "table": {
+      "exchange": "Sàn",
+      "bonus_types": "Loại ưu đãi",
+      "best_for": "Phù hợp với",
+      "action": "Hành động"
+    }
+  },
+  "ExchangeDetail": {
+    "title": "Mã giới thiệu {name} 2026: thưởng, ưu đãi & giảm phí",
+    "subtitle": "So sánh loại ưu đãi, hiểu điều kiện và ước tính tiết kiệm phí trước khi đăng ký.",
+    "how": {
+      "title": "Cách dùng mã",
+      "step1": "Mở trang đăng ký chính thức.",
+      "step2": "Tìm ô nhập mã giới thiệu / mã mời (tùy chọn).",
+      "step3": "Dán mã và hoàn tất đăng ký.",
+      "step4": "Sau khi đăng ký, kiểm tra trung tâm thưởng/ưu đãi."
+    },
+    "rewards": {
+      "title": "Các loại ưu đãi có thể nhận",
+      "item1": "Ưu đãi đăng ký (tùy chiến dịch).",
+      "item2": "Giảm phí giao dịch (tùy cấp độ và khu vực).",
+      "item3": "Voucher/hoàn tiền theo nhiệm vụ (có thể cần nạp tiền/giao dịch/KYC).",
+      "cta": "Ước tính giá trị nhận được"
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "Mã giới thiệu {name} là gì?",
+      "a1": "Mã giới thiệu là mã tùy chọn bạn có thể nhập khi đăng ký. Lợi ích có thể là giảm phí hoặc ưu đãi theo chiến dịch, tùy khu vực và chương trình hiện tại.",
+      "q2": "Nhập mã ở đâu trên {name}?",
+      "a2": "Hầu hết các sàn có ô nhập mã giới thiệu/mã mời trong lúc đăng ký. Nếu không thấy, hãy mở lại trang đăng ký chính thức bằng link giới thiệu và tìm ô nhập mã.",
+      "q3": "Có thể thêm/đổi mã sau khi đăng ký không?",
+      "a3": "Một số sàn cho phép, nhiều sàn không. Hãy coi mã giới thiệu là “chỉ nhập khi đăng ký” trừ khi hỗ trợ chính thức nói khác.",
+      "q4": "Ưu đãi có được đảm bảo không?",
+      "a4": "Không. Ưu đãi và giảm phí có thể thay đổi theo quốc gia, KYC, số tiền nạp, nhiệm vụ giao dịch và quy định chiến dịch. Luôn kiểm tra điều khoản chính thức."
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "Mã thưởng sàn giao dịch crypto tốt nhất năm 2026",
+      "subtitle": "So sánh ưu đãi đăng ký đã xác minh, giảm phí giao dịch, mã giới thiệu và điều kiện nhận thưởng trước khi bạn đăng ký.",
+      "cta_compare": "So sánh mã thưởng",
+      "cta_best": "Tìm ưu đãi phù hợp",
+      "cta_calc": "Tính phần thưởng"
+    },
+    "quick_calc": {
+      "title": "Máy tính nhanh",
+      "subtitle": "Nhập quốc gia, loại giao dịch và khối lượng để ước tính tiết kiệm phí.",
+      "full_calc": "Máy tính đầy đủ",
+      "country": "Quốc gia",
+      "trade_type": "Loại giao dịch",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "monthly_volume": "Khối lượng mỗi tháng (USD)",
+      "best_match": "Phù hợp nhất (ước tính)",
+      "annual_savings": "Tiết kiệm phí năm (ước tính): {low}–{high}",
+      "discount_range": "Khoảng giảm phí (ước tính): {low}–{high}",
+      "view_code": "Xem mã",
+      "compare": "So sánh",
+      "note": "Ước tính đơn giản; có thể không phản ánh cấp VIP, ưu đãi bằng token hoặc quy định chiến dịch."
+    },
+    "finder": {
+      "title": "Bonus Finder",
+      "subtitle": "Trả lời vài câu hỏi để tìm mã phù hợp với bạn.",
+      "experience": "Kinh nghiệm",
+      "experience_new": "Người mới",
+      "experience_experienced": "Có kinh nghiệm",
+      "trade_type": "Loại giao dịch",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "preference": "Ưu tiên",
+      "preference_bonus": "Bonus",
+      "preference_fees": "Phí thấp",
+      "country": "Quốc gia",
+      "result_title": "Gợi ý",
+      "best_match": "Phù hợp nhất: {name}",
+      "why": "Dựa trên lựa chọn của bạn và khả dụng tại {country}.",
+      "alternatives": "Phương án khác",
+      "cta_view": "Xem mã",
+      "cta_calc": "Tính giá trị",
+      "empty": "Chọn tùy chọn để xem gợi ý.",
+      "note": "Gợi ý đơn giản. Hãy luôn kiểm tra điều khoản chính thức."
+    },
+    "featured": {
+      "title": "Mã thưởng nổi bật"
+    },
+    "table": {
+      "title": "Bảng so sánh",
+      "subtitle": "So sánh nhanh loại ưu đãi và đối tượng phù hợp của từng sàn."
+    },
+    "compare": {
+      "title": "So sánh tương tác",
+      "trade_type": "Loại giao dịch",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futures",
+      "sort": "Sắp xếp theo",
+      "sort_low_fee": "Phí thấp nhất (ước tính)",
+      "sort_best_bonus": "Bonus phù hợp nhất",
+      "est_fee": "Phí năm (ước tính)",
+      "cta": "Xem mã",
+      "note": "Sắp xếp dựa trên giả định đơn giản và có thể không khớp với mức phí thực tế."
+    },
+    "recent": {
+      "title": "Xem gần đây",
+      "subtitle": "Quay lại nhanh các trang bạn đã mở trước đó.",
+      "empty": "Chưa có sàn nào được xem gần đây."
+    },
+    "favorites": {
+      "title": "Yêu thích",
+      "subtitle": "Lưu sàn để so sánh sau.",
+      "empty": "Chưa có mục yêu thích."
+    },
+    "faq_title": "Giải thích quy tắc thưởng",
+    "faq": {
+      "q1": "Mã thưởng/mã giới thiệu sàn là gì?",
+      "a1": "Đó là mã tùy chọn dùng khi đăng ký, có thể mở khóa giảm phí hoặc ưu đãi theo chiến dịch, tùy khu vực và chương trình hiện tại.",
+      "q2": "Ưu đãi có chắc chắn không?",
+      "a2": "Không. Ưu đãi có thể thay đổi theo quốc gia, KYC, số tiền nạp, nhiệm vụ giao dịch và quy định chiến dịch. Luôn kiểm tra điều khoản chính thức.",
+      "q3": "Khác nhau giữa bonus và giảm phí là gì?",
+      "a3": "Bonus thường là ưu đãi theo chiến dịch kèm điều kiện. Giảm phí giúp giảm chi phí giao dịch và phụ thuộc cấp phí, ưu đãi bằng token hoặc chương trình giới thiệu.",
+      "q4": "Có thể nhập mã sau khi đăng ký không?",
+      "a4": "Thường là không. Nhiều sàn chỉ cho nhập mã lúc đăng ký, trừ khi trung tâm trợ giúp chính thức cho phép thay đổi."
+    },
+    "countries": {
+      "title": "Hướng dẫn theo quốc gia",
+      "subtitle": "Bắt đầu với các khu vực phổ biến. Khả dụng có thể thay đổi.",
+      "view_all": "Xem tất cả"
+    },
+    "updates": {
+      "title": "Cập nhật ưu đãi",
+      "subtitle": "Theo dõi chiến dịch mới, thay đổi mã và cập nhật giảm phí.",
+      "item1_title": "Chiến dịch mới",
+      "item1_desc": "Khuyến mãi đăng ký hoặc giao dịch mới trên các sàn.",
+      "item2_title": "Thay đổi mã",
+      "item2_desc": "Khi mã hoặc link đã xác minh được cập nhật.",
+      "item3_title": "Cập nhật giảm phí",
+      "item3_desc": "Thay đổi cấp phí hoặc khoảng giảm."
+    }
+  },
+  "CountryBonus": {
+    "title": "Mã thưởng sàn crypto tốt nhất tại {country}",
+    "subtitle": "So sánh mã thưởng và giảm phí khả dụng tại {country}. Ưu đãi có thể thay đổi theo khu vực và chiến dịch.",
+    "cta_compare": "So sánh mã thưởng",
+    "cta_calc": "Tính giá trị",
+    "featured": "Mã nổi bật",
+    "notes_title": "Lưu ý",
+    "note1": "Khả dụng có thể thay đổi do quy định địa phương và yêu cầu KYC.",
+    "note2": "Ưu đãi và giảm phí có thể thay đổi theo chiến dịch và trạng thái tài khoản.",
+    "note3": "Luôn kiểm tra điều khoản chính thức trước khi đăng ký hoặc giao dịch."
+  },
+  "BonusCodes": {
+    "title": "Cơ sở dữ liệu mã thưởng",
+    "subtitle": "Xem danh sách và so sánh loại ưu đãi, điều kiện và ghi chú giảm phí.",
+    "search_label": "Tìm kiếm",
+    "search_placeholder": "Nhập tên sàn",
+    "sort_label": "Sắp xếp",
+    "sort_featured": "Nổi bật",
+    "sort_updated": "Cập nhật gần đây",
+    "sort_max_discount": "Giảm phí tối đa",
+    "sort_name": "Tên (A–Z)",
+    "filters_label": "Bộ lọc",
+    "bonus_type_signup": "Đăng ký",
+    "bonus_type_trading": "Giao dịch",
+    "bonus_type_fees": "Giảm phí",
+    "bonus_type_voucher": "Voucher",
+    "bonus_type_cashback": "Hoàn tiền",
+    "favorites_only": "Chỉ yêu thích",
+    "clear_filters": "Xóa",
+    "results_count": "{count} kết quả",
+    "open_exchange": "Mở chi tiết {name}",
+    "calculator_title": "Tính giá trị cho {name}",
+    "calculator_subtitle": "Ước tính tiết kiệm phí dựa trên khối lượng và giả định phí.",
+    "calculator_result": "Ước tính",
+    "calculator_savings": "Tiết kiệm phí năm ước tính: {low}–{high}",
+    "calculator_discount": "Khoảng giảm phí ước tính: {low}–{high}",
+    "calculator_full": "Mở máy tính đầy đủ",
+    "close": "Đóng"
+  },
+  "Compare": {
+    "title": "So sánh mã thưởng",
+    "subtitle": "So sánh loại ưu đãi và ghi chú giảm phí giữa các sàn giao dịch."
+  },
+  "CompareTool": {
+    "pick_title": "Chọn tối đa 3 sàn",
+    "pick_note": "Đây là so sánh đơn giản. Ưu đãi và khả năng sử dụng có thể thay đổi theo quốc gia và quy định chiến dịch.",
+    "result_title": "Kết quả",
+    "best_match": "Gợi ý phù hợp (ước tính)",
+    "bonus_types": "Loại ưu đãi",
+    "best_for": "Phù hợp với",
+    "view_referral": "Xem mã giới thiệu {name}",
+    "empty": "Hãy chọn ít nhất 1 sàn để xem kết quả."
+  },
+  "Calculators": {
+    "title": "Crypto Bonus & Fee Calculators",
+    "subtitle": "Estimate potential exchange rewards, trading fee savings, referral code validity, and bonus requirements before you register.",
+    "cta_bonus": "Calculate My Bonus Value",
+    "cta_checker": "Check Referral Code",
+    "preview": {
+      "title": "Quick preview",
+      "savings_label": "Estimated yearly fee savings",
+      "savings_value": "$48 – $126",
+      "best_label": "Best match",
+      "best_value": "OKX / Binance / Gate.io",
+      "status_label": "Status",
+      "status_value": "Region dependent",
+      "note": "Estimates only. Actual rewards and fee discounts can vary by country, KYC status, deposit amount, trading volume, and official exchange rules."
+    },
+    "badge": {
+      "highest": "Highest",
+      "high": "High",
+      "soon": "Soon"
+    },
+    "main_tools": {
+      "title": "Core tools",
+      "subtitle": "Use these to go from browsing to decision-making before you sign up."
+    },
+    "bonus_value": {
+      "title": "Công cụ tính giá trị ưu đãi",
+      "desc": "Estimate potential bonus value and yearly trading fee savings, plus a best-match score.",
+      "inputs": "Inputs: exchange, country, deposit, monthly volume, trading type",
+      "cta": "Start calculating →"
+    },
+    "checker": {
+      "title": "Kiểm tra mã giới thiệu",
+      "desc": "Check whether a referral code format looks valid and matches verified listings on this site.",
+      "inputs": "Inputs: exchange, code, country, new user",
+      "cta": "Check a code →"
+    },
+    "fee_savings": {
+      "title": "Trading Fee Savings Calculator",
+      "desc": "Estimate how much you could save per year from fee discounts based on your trading volume.",
+      "inputs": "Inputs: exchange, spot/futures, maker/taker, volume, discounts",
+      "cta": "Estimate savings →"
+    },
+    "country_checker": {
+      "title": "Country Availability Checker",
+      "desc": "Check whether exchange bonuses may be available in your country and what conditions to expect.",
+      "inputs": "Inputs: country, exchange, new user, spot/futures",
+      "cta": "Check availability →"
+    },
+    "coming": {
+      "title": "More tools coming",
+      "subtitle": "These will be added in the next phase to reduce drop-off and improve decision confidence.",
+      "requirement": {
+        "title": "Bonus Requirement Checker",
+        "desc": "Estimate how hard it is to qualify for a bonus based on typical requirements."
+      },
+      "finder": {
+        "title": "Best Bonus Finder",
+        "desc": "Answer a few questions to get a best-match exchange + bonus suggestion."
+      },
+      "checklist": {
+        "title": "Bonus Claim Checklist",
+        "desc": "A step-by-step checklist so you don’t miss any claim requirements."
+      },
+      "tracker": {
+        "title": "Reward Tracker",
+        "desc": "Track your own bonus tasks and deadlines using local storage (no login)."
+      }
+    }
+  },
+  "CalculatorPage": {
+    "title": "Crypto Exchange Bonus Value Calculator",
+    "subtitle": "Estimate potential bonus value, fee savings, referral code impact, and eligibility notes before you register. Results are estimates only."
+  },
+  "Calculator": {
+    "inputs": "Dữ liệu nhập",
+    "country": "Country",
+    "exchange": "Sàn",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "trade_type": "Loại giao dịch",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "first_deposit": "Nạp lần đầu (USD)",
+    "first_deposit_placeholder": "100",
+    "monthly_volume": "Khối lượng giao dịch/tháng (USD)",
+    "monthly_volume_placeholder": "1000",
+    "output_estimate": "Kết quả (ước tính)",
+    "output_country_exchange": "{country} · {exchange}",
+    "match_score": "Bonus Match Score: {score}/100",
+    "fee_savings_title": "Estimated fee savings",
+    "best_match_title": "Recommended exchange",
+    "best_match_note": "Availability: {status}. Compare exchanges if you’re deciding between options.",
+    "requirements_title": "Requirements you may need",
+    "cta_compare": "Compare exchanges",
+    "availability_available": "Available",
+    "availability_limited": "Region dependent",
+    "availability_not_confirmed": "Not confirmed",
+    "use_referral": "Use referral code?",
+    "use_referral_note": "Most exchanges only accept referral codes during sign-up.",
+    "hold_token": "Holding exchange token?",
+    "hold_token_note": "Some exchanges offer additional fee discounts for token holding.",
+    "req_new_account": "New account registration",
+    "req_referral_code": "Referral code entered during signup",
+    "req_kyc": "KYC verification",
+    "req_deposit_or_trade": "Deposit or trading task may be required",
+    "output_exchange": "Sàn",
+    "output_annual_volume": "Khối lượng giao dịch/năm (giả định)",
+    "output_assumed_fees": "Phí giao dịch/năm (giả định theo taker):",
+    "output_savings_range": "Khoảng tiết kiệm phí ({low}–{high}):",
+    "per_year": "/ năm",
+    "deposit_note_value": "nạp lần đầu {value}",
+    "deposit_note_default": "nạp lần đầu của bạn",
+    "output_note": "Ước tính này dùng giả định đơn giản và không bao gồm VIP tier, maker rebate, giảm phí bằng token hoặc quy định chiến dịch cụ thể. Ưu đãi có thể yêu cầu {depositNote}, KYC và/hoặc nhiệm vụ giao dịch."
+  },
+  "ReferralCheckerPage": {
+    "title": "Kiểm tra mã giới thiệu",
+    "subtitle": "Check code format, verified listing status, and region-dependent notes before you register. Most referral codes must be entered during sign-up."
+  },
+  "ReferralChecker": {
+    "inputs": "Dữ liệu nhập",
+    "exchange": "Sàn",
+    "referral_code": "Mã giới thiệu",
+    "referral_code_placeholder": "Nhập mã",
+    "country": "Country",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "result": "Kết quả",
+    "status_enter": "Enter a code to check format and listing status.",
+    "status_invalid_title": "Status: Code format may be invalid",
+    "status_invalid_desc": "Please check the exchange name and code again.",
+    "status_valid_title": "Status: Format looks valid",
+    "status_valid_unverified_desc": "This code is not listed as a verified code on our site. Benefits may vary.",
+    "status_verified_title": "Status: Verified listing on ExchangeBonusCode.com",
+    "status_verified_desc": "This code matches a verified listing for the selected exchange.",
+    "cta_use_code": "Use this code",
+    "cta_view_bonus": "View bonus details",
+    "cta_compare_verified": "Compare verified codes",
+    "copied": "Copied",
+    "existing_user_title": "Existing user warning",
+    "existing_user_desc": "Many exchanges only accept referral codes during sign-up. Existing users may not be able to add a code later.",
+    "note": "Country: {country}. Benefits may vary by region and campaign rules. Always verify on the official {name} signup page before registering."
+  },
+  "FeeSavingsPage": {
+    "title": "Crypto Trading Fee Savings Calculator",
+    "subtitle": "Estimate how much you might save with fee discounts (referral codes, token holding, or tier assumptions). Results are estimates only."
+  },
+  "FeeSavings": {
+    "inputs": "Inputs",
+    "exchange": "Exchange",
+    "trade_type": "Trading type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "fee_side": "Maker or taker",
+    "fee_side_maker": "Maker",
+    "fee_side_taker": "Taker",
+    "monthly_volume": "Monthly trading volume (USD)",
+    "monthly_volume_placeholder": "5000",
+    "trading_months": "Trading months",
+    "use_referral": "Use referral code",
+    "use_referral_note": "Some discounts may require entering a code during sign-up.",
+    "hold_token": "Hold exchange token",
+    "hold_token_note": "Additional discounts may apply when holding the exchange token.",
+    "output": "Output (estimate)",
+    "level": {
+      "low": "Low savings",
+      "medium": "Medium savings",
+      "high": "High savings"
+    },
+    "original_fee": "Original estimated fee",
+    "original_fee_note": "Based on {months} months of volume and a simplified fee assumption.",
+    "after_discount": "Estimated fee after discount",
+    "after_discount_note": "Shown as a range to avoid over-promising.",
+    "savings": "Potential savings",
+    "savings_note": "Higher trading frequency can make fee discounts more valuable than one-time signup bonuses.",
+    "disclaimer": "This is an estimate only. Rewards, bonuses, and fee discounts may vary by country, campaign, KYC status, deposit amount, trading volume, and official exchange rules."
+  },
+  "Countries": {
+    "hub_title": "Crypto Exchange Bonus Codes by Country",
+    "hub_subtitle": "Rewards vary by country due to KYC rules, product availability, and local payment methods. Search and filter to find the best match for your location.",
+    "hub_meta_title": "Crypto Exchange Bonus Codes by Country (2026) | ExchangeBonusCode",
+    "hub_meta_description": "Browse country bonus guides and quickly check availability by country, KYC, trade type, and deposit method. Rewards may vary by region and campaign rules.",
+    "search_label": "Search",
+    "search_placeholder": "Search a country or region",
+    "filter_region": "Region",
+    "filter_kyc": "KYC",
+    "filter_trade_type": "Spot/Futures",
+    "filter_deposit_method": "Deposit method",
+    "all": "All",
+    "kyc": "KYC",
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "deposit_methods": "Deposit methods",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "favorites_only": "Favorites only",
+    "clear_filters": "Clear",
+    "results_count": "{count} results",
+    "recently_viewed": "Recently viewed",
+    "popular_comparisons_title": "Popular country comparisons",
+    "popular_comparisons_subtitle": "Quickly compare bonus availability across two locations.",
+    "recommended": "Recommended",
+    "view_guide": "View guide",
+    "check_availability": "Check availability",
+    "tag_high_bonus": "High bonus potential",
+    "tag_easy_deposit": "Easy deposit",
+    "tag_kyc_required": "KYC required",
+    "updated": "Updated",
+    "open_country": "Open {name} country guide",
+    "favorite_add": "Add to favorites",
+    "favorite_remove": "Remove from favorites",
+    "region": {
+      "Asia": "Asia",
+      "Middle East": "Middle East",
+      "Oceania": "Oceania",
+      "North America": "North America",
+      "South America": "South America",
+      "Europe": "Europe",
+      "Africa": "Africa"
+    }
+  },
+  "AvailabilityCheckerPage": {
+    "title": "Country Availability Checker",
+    "subtitle": "Select country, exchange, user type, and trade type to see availability and reward notes. Results are informational and can vary by campaign rules."
+  },
+  "AvailabilityChecker": {
+    "inputs": "Inputs",
+    "country": "Country",
+    "exchange": "Exchange",
+    "user_type": "User type",
+    "user_type_new": "New user",
+    "user_type_existing": "Existing user",
+    "trade_type": "Trade type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "cta_check": "Check availability",
+    "history": "History",
+    "output": "Output",
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "tag_verified": "Verified",
+    "tag_region_dependent": "Region dependent",
+    "tag_kyc_needed": "KYC needed",
+    "bonus_types": "Bonus types",
+    "no_bonus": "No bonus listed",
+    "deposit_methods": "Deposit methods",
+    "updated": "Updated",
+    "alternatives": "Alternative options",
+    "disclaimer": "Rewards may vary by country, campaign, and account status. Always confirm official terms on the exchange before registering or trading."
+  },
+  "CountryDetail": {
+    "meta_title": "Best Crypto Exchange Bonus Codes in {country} (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus types, fee discount notes, KYC requirements, and deposit methods in {country}. Check availability by exchange and trade type.",
+    "updated": "Updated",
+    "title": "Best Crypto Exchange Bonus Codes in {country}",
+    "subtitle": "Compare signup rewards, fee discounts, and trading rewards available in {country}. Availability can vary by campaign rules and account status.",
+    "summary": {
+      "recommended": "Recommended exchanges",
+      "kyc": "KYC requirement",
+      "deposit": "Deposit methods",
+      "beginner": "Beginner friendliness"
+    },
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "beginner_score": {
+      "high": "High",
+      "medium": "Medium"
+    },
+    "table_title": "Exchange comparison",
+    "table_subtitle": "Sort and filter by trade type and bonus type. Always verify official terms before registering.",
+    "filter_trade_type": "Trade type",
+    "filter_bonus_type": "Bonus type",
+    "sort": "Sort",
+    "sort_status": "Availability",
+    "sort_name": "Name",
+    "all": "All",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "col": {
+      "exchange": "Exchange",
+      "availability": "Availability",
+      "bonus_type": "Bonus type",
+      "fee_discount": "Fee discount",
+      "kyc": "KYC",
+      "deposit": "Deposit methods",
+      "best_for": "Best for",
+      "action": "Action"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "none": "None",
+    "view_exchange": "View exchange",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "steps_title": "How to claim bonuses (step-by-step)",
+    "step": {
+      "1_label": "Step 1",
+      "1_title": "Pick an exchange and open the official sign-up page",
+      "1_desc": "Use our exchange guide page to access the correct registration link and verified referral code notes.",
+      "2_label": "Step 2",
+      "2_title": "Complete registration and enter code if required",
+      "2_desc": "If the exchange supports referral codes, enter the code during sign-up. Some benefits require sign-up-time entry.",
+      "3_label": "Step 3",
+      "3_title": "Complete KYC and deposit requirements (if required)",
+      "3_desc": "Many campaigns require KYC and/or a first deposit. Requirements can vary by country and account status.",
+      "4_label": "Step 4",
+      "4_title": "Finish tasks and check the rewards center",
+      "4_desc": "Trading tasks, volume thresholds, and deadlines are common. Always check the exchange bonus center."
+    },
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Do bonuses work in {country}?",
+      "a1": "Many bonuses are region-dependent. Use the availability checker and confirm official terms before registering.",
+      "q2": "Do I need KYC in {country}?",
+      "a2": "KYC requirements vary by exchange and campaign. Some rewards require KYC even if basic trading does not.",
+      "q3": "Can rewards change over time?",
+      "a3": "Yes. Campaign rules, bonus amounts, and fee discounts can change without notice.",
+      "q4": "Are these rewards guaranteed?",
+      "a4": "No. This site provides informational estimates only. Always confirm the official exchange terms."
+    },
+    "risk_title": "Notes & risk",
+    "cta_check": "Check your best bonus",
+    "cta_calc": "Use calculator",
+    "cta_back": "Back to countries"
+  },
+  "CountryComparison": {
+    "meta_title": "{a} vs {b}: Country Bonus Availability (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus availability, limitations, and exchange support between {a} and {b}. Rewards may vary by region and campaign rules.",
+    "title": "{a} vs {b}: Crypto Exchange Bonus Availability",
+    "subtitle": "Compare availability labels across major exchanges. Always verify official terms before registering.",
+    "col": {
+      "exchange": "Exchange"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "conclusion_title": "Conclusion",
+    "conclusion_winner": "Based on this simplified listing, {winner} looks more flexible overall.",
+    "conclusion_tie": "Both locations look similar based on this simplified listing."
+  },
+  "Guides": {
+    "title": "Hướng dẫn",
+    "subtitle": "Tìm hiểu cách mã giới thiệu, ưu đãi đăng ký và giảm phí hoạt động trước khi bạn đăng ký.",
+    "guide1": {
+      "title": "Cách dùng mã giới thiệu crypto",
+      "desc": "Hướng dẫn từng bước và các lỗi thường gặp cần tránh."
+    }
+  },
+  "GuideReferralCode": {
+    "title": "Cách dùng mã giới thiệu crypto",
+    "subtitle": "Hướng dẫn ngắn gọn, thực tế để nhập mã đúng và tránh lỗi thường gặp.",
+    "steps_title": "Từng bước",
+    "step1": "Mở trang đăng ký chính thức (nên dùng link giới thiệu).",
+    "step2": "Tìm ô “Referral / Invitation / Promo” (tùy chọn).",
+    "step3": "Dán mã và gửi đăng ký.",
+    "step4": "Sau khi đăng ký, hoàn tất KYC nếu cần để nhận ưu đãi.",
+    "step5": "Kiểm tra trung tâm thưởng/ưu đãi để xem nhiệm vụ và hạn chót.",
+    "mistakes_title": "Lỗi thường gặp",
+    "mistake1": "Đăng ký trước rồi mới tìm cách thêm mã sau.",
+    "mistake2": "Dùng mã dành cho sàn hoặc khu vực khác.",
+    "mistake3": "Bỏ qua điều kiện nạp/giao dịch và hạn sử dụng ưu đãi.",
+    "mistake4": "Không kiểm tra điều khoản chính thức của chiến dịch hiện tại.",
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Mã giới thiệu luôn hoạt động không?",
+      "a1": "Thường chỉ hoạt động khi đăng ký và khi sàn hỗ trợ khu vực của bạn. Một số chiến dịch có thời hạn.",
+      "q2": "Có thể thêm mã sau khi đăng ký không?",
+      "a2": "Thường là không. Hãy coi mã là “phải nhập khi đăng ký” trừ khi hỗ trợ chính thức xác nhận khác.",
+      "q3": "Vì sao thưởng không về ngay?",
+      "a3": "Ưu đãi có thể cần KYC, nạp tiền hoặc nhiệm vụ giao dịch. Nhiều phần thưởng được trả theo giai đoạn sau khi bạn hoàn thành điều kiện."
+    }
+  },
+  "Best": {
+    "title": "Mã thưởng sàn giao dịch crypto tốt nhất năm 2026",
+    "subtitle": "Điểm bắt đầu thực tế để so sánh loại ưu đãi, ghi chú giảm phí và đối tượng phù hợp của từng sàn.",
+    "quick_comparison": "So sánh nhanh",
+    "best_for": "Phù hợp với",
+    "risk_note": "Đây là tổng quan đơn giản. Ưu đãi, giảm phí và khả năng sử dụng có thể thay đổi theo quốc gia, chiến dịch và trạng thái tài khoản. Hãy luôn kiểm tra điều khoản chính thức."
   }
 }

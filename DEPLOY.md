@@ -12,7 +12,7 @@ This project is configured to be deployed on Cloudflare Pages using the `@cloudf
 1.  **Log in to Cloudflare Dashboard**.
 2.  Go to **Compute (Workers & Pages)** -> **Pages**.
 3.  Click **Connect to Git**.
-4.  Select your repository (`gateioreferralcode.com`).
+4.  Select your repository (`exchangebonuscode.com`).
 5.  **Configure the build settings**:
     *   **Framework preset**: `Next.js`
     *   **Build command**: `npm run pages:build`

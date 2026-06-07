@@ -1,0 +1,738 @@
+{
+  "Index": {
+    "title": "2026 年最佳加密交易所奖励码与手续费折扣 | exchangebonuscode.com",
+    "description": "对比交易所注册奖励、推荐码与手续费折扣。奖励可能因地区与活动规则而变化。"
+  },
+  "Header": {
+    "home": "首页",
+    "bonus_codes": "奖励码库",
+    "compare": "对比",
+    "calculators": "计算器",
+    "countries": "国家/地区",
+    "guides": "指南",
+    "invitation_code": "邀请码",
+    "bonus": "奖励",
+    "guide": "教程",
+    "blog": "博客"
+  },
+  "Hero": {
+    "title": "Gate.io 推荐码（2026）：奖励与手续费折扣指南",
+    "subtitle": "注册时使用推荐码可参与活动奖励并可能获得手续费折扣（具体以地区与活动为准）。",
+    "cta": "前往 Gate.io 领取奖励"
+  },
+  "ReferralCard": {
+    "title": "Gate.io 推荐码",
+    "subtitle": "新用户专享",
+    "copy": "复制推荐码",
+    "copied": "已复制 ✓",
+    "benefit1": "潜在新手奖励（可能变化）",
+    "benefit2": "手续费折扣",
+    "benefit3": "活动专属奖励",
+    "register": "立即注册"
+  },
+  "Steps": {
+    "title": "如何使用 Gate.io 推荐码",
+    "step1_title": "步骤 1",
+    "step1_desc": "打开 Gate.io 注册链接。",
+    "step2_title": "步骤 2",
+    "step2_desc": "在注册页面填写推荐码。",
+    "step3_title": "步骤 3",
+    "step3_desc": "按需完成 KYC 认证。",
+    "step4_title": "步骤 4",
+    "step4_desc": "开始交易并按活动规则完成任务。"
+  },
+  "BonusTable": {
+    "title": "Gate.io 推荐奖励说明",
+    "reward": "奖励类型",
+    "requirement": "可能条件",
+    "welcome_bonus": "新手奖励",
+    "deposit_crypto": "首次入金/充值",
+    "trading_rewards": "交易奖励",
+    "futures_trading": "合约交易任务",
+    "vip_upgrade": "VIP 等级提升",
+    "high_volume": "高交易量要求"
+  },
+  "Intro": {
+    "title": "Gate.io 是什么？",
+    "content": "Gate.io 是全球知名的加密货币交易所之一，提供现货、合约、理财/质押等服务，并支持大量数字资产交易。"
+  },
+  "ComparisonTable": {
+    "title": "加密交易所对比",
+    "exchange": "交易所",
+    "best_for": "适合人群",
+    "action": "操作",
+    "liquidity": "流动性",
+    "derivatives": "衍生品",
+    "altcoins": "小币种",
+    "view_bonus": "查看奖励"
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "q1": "什么是 Gate.io 推荐码？",
+    "a1": "Gate.io 推荐码是注册时可填写的可选代码，可能用于获取活动奖励或手续费折扣（以官方规则为准）。",
+    "q2": "Gate.io 邀请码怎么用？",
+    "a2": "在注册页面创建账号时，找到推荐/邀请字段并填写邀请码即可。",
+    "q3": "Gate.io 推荐奖励是真的吗？",
+    "a3": "活动奖励通常是真实存在的，但可能与地区、KYC、入金与任务要求等有关，且规则会变化，请以官方活动条款为准。",
+    "q4": "在哪里可以找到 Gate.io 推荐码？",
+    "a4": "你可以在本网站查看推荐码与使用说明，并在注册前核对官方页面信息。"
+  },
+  "InvitationCode": {
+    "title": "Gate.io 邀请码 2026：注册奖励与使用指南",
+    "description": "面向新用户的 Gate.io 邀请码与使用教程。奖励与折扣可能随地区与活动规则变化。"
+  },
+  "ReferralBonus": {
+    "title": "Gate.io 推荐奖励指南 2026：条件与领取方式",
+    "description": "了解 Gate.io 推荐奖励可能涉及的条件（KYC、入金、交易任务等）以及常见领取流程。"
+  },
+  "ReferralReddit": {
+    "title": "Gate.io 推荐码 Reddit 讨论 2026：用户反馈汇总",
+    "description": "汇总社区讨论与用户反馈。实际奖励与折扣以官方规则与个人账号状态为准。",
+    "user_a": "用户 A",
+    "review_a": "我使用了该码，获得了手续费折扣。",
+    "user_b": "用户 B",
+    "review_b": "合约交易任务相关的奖励对我有效。"
+  },
+  "ReferralId": {
+    "title": "Gate.io Referral ID 2026：在哪里填写与如何使用",
+    "description": "一步步说明 Gate.io 注册时 Referral ID 的位置与填写方式，避免错过可能的奖励/折扣。"
+  },
+  "Footer": {
+    "rights_reserved": "版权所有。"
+  },
+  "Blog": {
+    "title": "Gate.io 博客与指南",
+    "description": "关于 Gate.io 的最新教程与指南文章。",
+    "read_more": "阅读全文"
+  },
+  "Common": {
+    "copy_code": "复制推荐码",
+    "copied": "已复制",
+    "register": "注册",
+    "view_details": "查看详情",
+    "calculate_value": "计算价值",
+    "view_code": "查看推荐码",
+    "best_for": "适合",
+    "updated": "更新于",
+    "add_to_favorites": "加入收藏",
+    "remove_from_favorites": "取消收藏"
+  },
+  "Disclaimer": {
+    "text": "奖励、活动与手续费折扣可能因国家/地区、活动周期与账号状态而变化。本站仅提供信息与估算，不构成任何投资建议。注册或交易前请务必以交易所官方条款为准。"
+  },
+  "Exchange": {
+    "referral_code_label": "{name} 推荐码",
+    "bonus_type": {
+      "signup": "注册奖励",
+      "trading": "交易奖励",
+      "fee_discount": "手续费折扣",
+      "voucher": "代金券",
+      "cashback": "返现/返佣"
+    },
+    "bonus_type_help": {
+      "signup": "注册/新手相关奖励，通常与活动周期、地区与资格有关。",
+      "trading": "与交易任务、交易量要求或手续费返还相关的奖励。",
+      "fee_discount": "降低交易手续费（具体折扣可能受 VIP 等级、平台币抵扣与地区影响）。",
+      "voucher": "可用于手续费抵扣或活动福利的代金券/优惠券。",
+      "cashback": "满足条件后发放的返现或返利。"
+    },
+    "best_for_tag": {
+      "altcoins": "小币种",
+      "new_listings": "新币上线",
+      "derivatives": "合约/衍生品",
+      "advanced_traders": "进阶交易者",
+      "liquidity": "高流动性",
+      "low_spreads": "低点差"
+    },
+    "table": {
+      "exchange": "交易所",
+      "bonus_types": "优惠类型",
+      "best_for": "适合",
+      "action": "操作"
+    }
+  },
+  "ExchangeDetail": {
+    "title": "{name} 推荐码 2026：奖励、条件与手续费折扣指南",
+    "subtitle": "对比优惠类型、理解可能条件，并在注册前估算手续费节省。",
+    "how": {
+      "title": "如何使用推荐码",
+      "step1": "打开交易所官方注册页面。",
+      "step2": "找到可选的推荐/邀请码输入框。",
+      "step3": "填写推荐码并完成注册。",
+      "step4": "注册后在奖励/活动中心查看任务与截止时间。"
+    },
+    "rewards": {
+      "title": "可能有哪些奖励/优惠",
+      "item1": "注册奖励（基于活动规则）。",
+      "item2": "手续费折扣（可能与费率等级/地区有关）。",
+      "item3": "任务型代金券或返佣（可能要求入金/交易/KYC）。",
+      "cta": "估算你的潜在价值"
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "什么是 {name} 推荐码？",
+      "a1": "推荐码是注册时可选填写的代码，可能用于获得手续费折扣或活动奖励，具体取决于地区与当前活动。",
+      "q2": "在 {name} 哪里填写推荐码？",
+      "a2": "多数交易所在注册流程中会提供推荐/邀请字段。若未看到，可尝试通过推荐链接重新打开官方注册页并查找可选字段。",
+      "q3": "注册后还能补填/修改推荐码吗？",
+      "a3": "部分交易所允许，但很多不允许。除非官方帮助中心明确说明可修改，否则建议视为“仅注册时可填”。",
+      "q4": "奖励是保证的吗？",
+      "a4": "不保证。奖励与折扣会随地区、KYC、入金、任务要求与活动规则变化，请以官方条款为准。"
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "2026 年最佳加密交易所奖励码",
+      "subtitle": "对比已验证的注册奖励、手续费折扣、推荐码与领取条件，帮助你在注册前做出选择。",
+      "cta_compare": "对比奖励码",
+      "cta_best": "帮我选最合适",
+      "cta_calc": "计算节省/奖励"
+    },
+    "quick_calc": {
+      "title": "快速估算",
+      "subtitle": "输入国家/地区、交易类型与交易额，快速估算可能的手续费节省。",
+      "full_calc": "完整计算器",
+      "country": "国家/地区",
+      "trade_type": "交易类型",
+      "trade_type_spot": "现货",
+      "trade_type_futures": "合约",
+      "monthly_volume": "月交易额（USD）",
+      "best_match": "最佳匹配（估算）",
+      "annual_savings": "年化手续费节省（估算）：{low}–{high}",
+      "discount_range": "折扣区间（估算）：{low}–{high}",
+      "view_code": "查看推荐码",
+      "compare": "去对比",
+      "note": "该估算为简化模型，未包含 VIP 等级、平台币折扣或具体活动规则。"
+    },
+    "finder": {
+      "title": "Bonus Finder",
+      "subtitle": "用几个问题快速找到更适合你的奖励码。",
+      "experience": "经验水平",
+      "experience_new": "新手",
+      "experience_experienced": "老手",
+      "trade_type": "交易类型",
+      "trade_type_spot": "现货",
+      "trade_type_futures": "合约",
+      "preference": "优先级",
+      "preference_bonus": "奖金/奖励",
+      "preference_fees": "手续费更低",
+      "country": "国家/地区",
+      "result_title": "推荐结果",
+      "best_match": "最匹配：{name}",
+      "why": "基于你的偏好，并参考 {country} 的可用性信息（可能变化）。",
+      "alternatives": "备选方案",
+      "cta_view": "查看推荐码",
+      "cta_calc": "计算价值",
+      "empty": "选择选项后即可看到推荐结果。",
+      "note": "该推荐为简化模型，仅供参考；请以交易所官方条款为准。"
+    },
+    "featured": {
+      "title": "精选推荐码"
+    },
+    "table": {
+      "title": "奖励对比表",
+      "subtitle": "快速对比优惠类型以及各交易所更适合谁。"
+    },
+    "compare": {
+      "title": "交互式对比",
+      "trade_type": "交易类型",
+      "trade_type_spot": "现货",
+      "trade_type_futures": "合约",
+      "sort": "排序方式",
+      "sort_low_fee": "最低手续费（估算）",
+      "sort_best_bonus": "最适合的奖励",
+      "est_fee": "年化手续费（估算）",
+      "cta": "查看推荐码",
+      "note": "排序使用简化假设，可能与真实费率等级不一致。"
+    },
+    "recent": {
+      "title": "最近查看",
+      "subtitle": "快速回到你刚刚看过的交易所页面。",
+      "empty": "暂无最近查看记录。"
+    },
+    "favorites": {
+      "title": "收藏",
+      "subtitle": "把感兴趣的交易所先收藏起来，之后再对比。",
+      "empty": "暂无收藏。"
+    },
+    "faq_title": "奖励规则解释",
+    "faq": {
+      "q1": "什么是交易所奖励码？",
+      "a1": "奖励码或推荐码是注册时可选填写的代码，可能用于获得手续费折扣或参与活动奖励（以地区与活动规则为准）。",
+      "q2": "奖励是保证的吗？",
+      "a2": "不保证。奖励可能随国家/地区、KYC、入金金额、交易任务与活动规则变化，请以官方条款为准。",
+      "q3": "奖励与手续费折扣有什么区别？",
+      "a3": "奖励通常是带条件的活动权益；手续费折扣用于降低长期交易成本，可能与费率等级、平台币抵扣或推荐计划相关。",
+      "q4": "注册后还能填写推荐码吗？",
+      "a4": "多数情况下不行。除非官方帮助中心明确支持，否则建议视为必须在注册时填写。"
+    },
+    "countries": {
+      "title": "国家/地区入口",
+      "subtitle": "从热门国家/地区开始，后续可扩展更多程序化 SEO 页面。",
+      "view_all": "查看全部"
+    },
+    "updates": {
+      "title": "更新与通知",
+      "subtitle": "跟踪最新活动、推荐码变更与手续费折扣更新，方便你回访。",
+      "item1_title": "最新活动",
+      "item1_desc": "汇总近期注册/交易活动与可能的奖励变动。",
+      "item2_title": "推荐码变更",
+      "item2_desc": "当本站已验证的推荐码或链接发生更新时记录。",
+      "item3_title": "手续费折扣更新",
+      "item3_desc": "费率/折扣规则的更新与调整信息。"
+    }
+  },
+  "CountryBonus": {
+    "title": "{country} 最佳加密交易所奖励码（2026）",
+    "subtitle": "对比 {country} 可用的交易所奖励码与手续费折扣信息。实际权益可能因地区与活动规则变化。",
+    "cta_compare": "去对比奖励码",
+    "cta_calc": "估算价值",
+    "featured": "精选推荐码",
+    "notes_title": "注意事项",
+    "note1": "可用性可能受当地监管与 KYC 要求影响，且会变化。",
+    "note2": "奖励与折扣可能随活动周期与账号状态变化，不保证固定收益。",
+    "note3": "注册或交易前请以交易所官方条款为准。"
+  },
+  "BonusCodes": {
+    "title": "奖励码数据库",
+    "subtitle": "浏览推荐码列表，快速对比优惠类型、条件与手续费折扣说明。",
+    "search_label": "搜索",
+    "search_placeholder": "输入交易所名称",
+    "sort_label": "排序",
+    "sort_featured": "默认",
+    "sort_updated": "最近更新",
+    "sort_max_discount": "最高手续费折扣",
+    "sort_name": "名称（A–Z）",
+    "filters_label": "筛选",
+    "bonus_type_signup": "注册",
+    "bonus_type_trading": "交易",
+    "bonus_type_fees": "手续费折扣",
+    "bonus_type_voucher": "代金券",
+    "bonus_type_cashback": "返现",
+    "favorites_only": "仅看收藏",
+    "clear_filters": "清空",
+    "results_count": "共 {count} 条",
+    "open_exchange": "打开 {name} 详情",
+    "calculator_title": "{name} 奖励价值估算",
+    "calculator_subtitle": "基于交易量与简化费率假设，估算可能的手续费节省。",
+    "calculator_result": "估算结果",
+    "calculator_savings": "预计年化手续费节省：{low}–{high}",
+    "calculator_discount": "预计折扣区间：{low}–{high}",
+    "calculator_full": "打开完整计算器",
+    "close": "关闭"
+  },
+  "Compare": {
+    "title": "对比奖励码",
+    "subtitle": "对比主流交易所的优惠类型与手续费折扣说明，快速筛选更适合你的平台。"
+  },
+  "CompareTool": {
+    "pick_title": "最多选择 3 个交易所",
+    "pick_note": "这是简化对比。奖励与可用性可能因国家/地区与活动规则变化。",
+    "result_title": "结果",
+    "best_match": "最佳匹配（估算）",
+    "bonus_types": "优惠类型",
+    "best_for": "适合",
+    "view_referral": "查看 {name} 推荐码",
+    "empty": "请至少选择 1 个交易所查看结果。"
+  },
+  "Calculators": {
+    "title": "加密交易所奖励与手续费计算器",
+    "subtitle": "在注册交易所前，估算可能获得的奖励、手续费节省、推荐码状态和领取条件。",
+    "cta_bonus": "计算奖励价值",
+    "cta_checker": "检查推荐码",
+    "preview": {
+      "title": "结果预览",
+      "savings_label": "预计年度手续费节省",
+      "savings_value": "$48 – $126",
+      "best_label": "推荐交易所",
+      "best_value": "OKX / Binance / Gate.io",
+      "status_label": "状态",
+      "status_value": "可能受地区影响",
+      "note": "仅为估算。实际奖励与手续费折扣可能因国家/地区、KYC 状态、入金金额、交易量与官方规则而不同。"
+    },
+    "badge": {
+      "highest": "最高优先级",
+      "high": "高优先级",
+      "soon": "即将上线"
+    },
+    "main_tools": {
+      "title": "核心工具",
+      "subtitle": "让用户从“浏览”走到“决策”的关键工具区。"
+    },
+    "bonus_value": {
+      "title": "奖励价值计算器",
+      "desc": "估算奖励价值与年度手续费节省，并给出最佳匹配评分。",
+      "inputs": "输入：交易所、国家/地区、入金、月交易额、交易类型",
+      "cta": "开始计算 →"
+    },
+    "checker": {
+      "title": "推荐码校验器",
+      "desc": "检查推荐码格式是否合理，并判断是否为本站已验证推荐码。",
+      "inputs": "输入：交易所、推荐码、国家/地区、新用户",
+      "cta": "校验推荐码 →"
+    },
+    "fee_savings": {
+      "title": "手续费节省计算器",
+      "desc": "基于你的交易量，估算使用折扣后一年可能节省多少手续费。",
+      "inputs": "输入：交易所、现货/合约、maker/taker、交易量、折扣因素",
+      "cta": "估算节省 →"
+    },
+    "country_checker": {
+      "title": "国家/地区可用性查询",
+      "desc": "选择国家/地区后，查看交易所可能可用性、KYC 与奖励提示。",
+      "inputs": "输入：国家/地区、交易所、新用户、现货/合约",
+      "cta": "查询可用性 →"
+    },
+    "coming": {
+      "title": "更多工具（规划中）",
+      "subtitle": "下一阶段补齐，降低跳出率并提升决策信心。",
+      "requirement": {
+        "title": "奖励门槛检查器",
+        "desc": "根据常见条件，判断领取奖励的难度与可能需要的步骤。"
+      },
+      "finder": {
+        "title": "最佳奖励推荐器",
+        "desc": "问答式推荐最适合的交易所与奖励方案。"
+      },
+      "checklist": {
+        "title": "奖励领取清单",
+        "desc": "注册前一步步确认，不漏任何领取条件。"
+      },
+      "tracker": {
+        "title": "奖励任务追踪",
+        "desc": "用本地存储记录任务进度与截止时间（无需登录）。"
+      }
+    }
+  },
+  "CalculatorPage": {
+    "title": "加密交易所奖励价值计算器",
+    "subtitle": "在注册前估算奖励价值、手续费节省与可用性提示。结果仅为估算参考，不保证获得奖励。"
+  },
+  "Calculator": {
+    "inputs": "输入",
+    "country": "国家/地区",
+    "exchange": "交易所",
+    "new_user": "新用户？",
+    "new_user_yes": "是",
+    "new_user_no": "否",
+    "trade_type": "交易类型",
+    "trade_type_spot": "现货",
+    "trade_type_futures": "合约",
+    "first_deposit": "首次入金（USD）",
+    "first_deposit_placeholder": "100",
+    "monthly_volume": "月交易额（USD）",
+    "monthly_volume_placeholder": "1000",
+    "output_estimate": "输出（估算）",
+    "output_country_exchange": "{country} · {exchange}",
+    "match_score": "匹配评分：{score}/100",
+    "fee_savings_title": "预计手续费节省",
+    "best_match_title": "推荐交易所",
+    "best_match_note": "可用性：{status}。如果你在多个交易所之间犹豫，建议进一步对比。",
+    "requirements_title": "你可能需要满足的条件",
+    "cta_compare": "对比交易所",
+    "availability_available": "可用",
+    "availability_limited": "可能受地区影响",
+    "availability_not_confirmed": "未确认",
+    "use_referral": "使用推荐码？",
+    "use_referral_note": "多数交易所仅支持在注册时填写推荐码。",
+    "hold_token": "持有平台币？",
+    "hold_token_note": "部分交易所持有平台币可获得额外手续费折扣。",
+    "req_new_account": "新账号注册",
+    "req_referral_code": "注册时填写推荐码",
+    "req_kyc": "完成 KYC 认证",
+    "req_deposit_or_trade": "可能需要入金或完成交易任务",
+    "output_exchange": "交易所",
+    "output_annual_volume": "年化交易额（假设）",
+    "output_assumed_fees": "年化手续费（按 taker 费率假设）：",
+    "output_savings_range": "可能节省区间（{low}–{high}）：",
+    "per_year": "/ 年",
+    "deposit_note_value": "首次入金 {value}",
+    "deposit_note_default": "你的首次入金",
+    "output_note": "该估算基于简化的费率假设，未包含 VIP 等级、maker 返佣、平台币折扣或具体活动规则。奖励可能要求 {depositNote}、完成 KYC 与/或交易任务。"
+  },
+  "ReferralCheckerPage": {
+    "title": "推荐码校验器",
+    "subtitle": "在注册前检查推荐码格式、本站验证状态与地区提示。多数推荐码需要在注册时填写。"
+  },
+  "ReferralChecker": {
+    "inputs": "输入",
+    "exchange": "交易所",
+    "referral_code": "推荐码",
+    "referral_code_placeholder": "请输入推荐码",
+    "country": "国家/地区",
+    "new_user": "新用户？",
+    "new_user_yes": "是",
+    "new_user_no": "否",
+    "result": "结果",
+    "status_enter": "请输入推荐码以检查格式与本站验证状态。",
+    "status_invalid_title": "状态：推荐码格式可能无效",
+    "status_invalid_desc": "请检查交易所名称与推荐码是否输入正确。",
+    "status_valid_title": "状态：格式看起来有效",
+    "status_valid_unverified_desc": "该推荐码不在本站已验证列表中，实际权益可能不同。",
+    "status_verified_title": "状态：本站已验证推荐码",
+    "status_verified_desc": "该推荐码匹配本站对所选交易所的已验证收录。",
+    "cta_use_code": "使用此推荐码",
+    "cta_view_bonus": "查看奖励详情",
+    "cta_compare_verified": "对比已验证推荐码",
+    "copied": "已复制",
+    "existing_user_title": "老用户提醒",
+    "existing_user_desc": "多数交易所仅支持在注册时填写推荐码。老用户通常无法后补推荐码。",
+    "note": "国家/地区：{country}。权益可能因地区与活动规则变化。注册前请务必在 {name} 官方注册页面核对。"
+  },
+  "FeeSavingsPage": {
+    "title": "加密交易手续费节省计算器",
+    "subtitle": "估算手续费折扣可能带来的节省（推荐码、平台币、费率假设）。结果仅为估算参考。"
+  },
+  "FeeSavings": {
+    "inputs": "输入",
+    "exchange": "交易所",
+    "trade_type": "交易类型",
+    "trade_type_spot": "现货",
+    "trade_type_futures": "合约",
+    "fee_side": "Maker / Taker",
+    "fee_side_maker": "Maker",
+    "fee_side_taker": "Taker",
+    "monthly_volume": "月交易额（USD）",
+    "monthly_volume_placeholder": "5000",
+    "trading_months": "交易月数",
+    "use_referral": "使用推荐码",
+    "use_referral_note": "部分折扣可能要求在注册时填写推荐码。",
+    "hold_token": "持有平台币",
+    "hold_token_note": "持有平台币可能获得额外手续费折扣。",
+    "output": "输出（估算）",
+    "level": {
+      "low": "节省较低",
+      "medium": "节省中等",
+      "high": "节省较高"
+    },
+    "original_fee": "原始预估手续费",
+    "original_fee_note": "基于 {months} 个月交易量与简化费率假设计算。",
+    "after_discount": "折扣后预估手续费",
+    "after_discount_note": "使用区间展示，避免承诺固定收益。",
+    "savings": "可能节省",
+    "savings_note": "如果交易频率较高，手续费折扣可能比一次性注册奖励更有长期价值。",
+    "disclaimer": "以上结果仅为估算。奖励、手续费折扣和活动规则可能因国家/地区、活动、KYC状态、入金金额和交易量而不同，请以交易所官方页面为准。"
+  },
+  "Countries": {
+    "hub_title": "按国家/地区查看加密交易所奖励码",
+    "hub_subtitle": "由于 KYC 规则、产品可用性与本地入金方式差异，奖励会因国家/地区而变化。使用搜索与筛选快速找到最适合你的方案。",
+    "hub_meta_title": "按国家/地区查看加密交易所奖励码（2026） | ExchangeBonusCode",
+    "hub_meta_description": "浏览各国家/地区的奖励指南，并按国家、KYC、交易类型与入金方式快速查询可用性。奖励可能随地区与活动规则变化。",
+    "search_label": "搜索",
+    "search_placeholder": "搜索国家/地区或大区",
+    "filter_region": "地区",
+    "filter_kyc": "KYC",
+    "filter_trade_type": "现货/合约",
+    "filter_deposit_method": "入金方式",
+    "all": "全部",
+    "kyc": "KYC",
+    "kyc_yes": "需要 KYC",
+    "kyc_no": "不需要 KYC",
+    "trade_type_spot": "现货",
+    "trade_type_futures": "合约",
+    "deposit_methods": "入金方式",
+    "deposit_method": {
+      "bank-transfer": "银行转账",
+      "card": "银行卡",
+      "p2p": "P2P",
+      "crypto": "加密货币",
+      "e-wallet": "电子钱包"
+    },
+    "favorites_only": "仅看收藏",
+    "clear_filters": "清除",
+    "results_count": "共 {count} 条结果",
+    "recently_viewed": "最近查看",
+    "popular_comparisons_title": "热门国家对比",
+    "popular_comparisons_subtitle": "快速对比两个地区的奖励可用性。",
+    "recommended": "推荐交易所",
+    "view_guide": "查看指南",
+    "check_availability": "检查可用性",
+    "tag_high_bonus": "高奖金潜力",
+    "tag_easy_deposit": "入金更方便",
+    "tag_kyc_required": "KYC 要求",
+    "updated": "更新时间",
+    "open_country": "打开 {name} 国家/地区指南",
+    "favorite_add": "加入收藏",
+    "favorite_remove": "取消收藏",
+    "region": {
+      "Asia": "亚洲",
+      "Middle East": "中东",
+      "Oceania": "大洋洲",
+      "North America": "北美",
+      "South America": "南美",
+      "Europe": "欧洲",
+      "Africa": "非洲"
+    }
+  },
+  "AvailabilityCheckerPage": {
+    "title": "国家/地区可用性检查器",
+    "subtitle": "输入国家/地区、交易所、用户类型与交易类型，查看可用性与奖励备注。结果仅供参考，可能随活动规则变化。"
+  },
+  "AvailabilityChecker": {
+    "inputs": "输入",
+    "country": "国家/地区",
+    "exchange": "交易所",
+    "user_type": "用户类型",
+    "user_type_new": "新用户",
+    "user_type_existing": "老用户",
+    "trade_type": "交易类型",
+    "trade_type_spot": "现货",
+    "trade_type_futures": "合约",
+    "cta_check": "检查可用性",
+    "history": "历史记录",
+    "output": "输出",
+    "status": {
+      "available": "可用",
+      "limited": "受限",
+      "not_available": "不可用"
+    },
+    "tag_verified": "已验证",
+    "tag_region_dependent": "受地区影响",
+    "tag_kyc_needed": "需要 KYC",
+    "bonus_types": "奖励类型",
+    "no_bonus": "未列出奖励",
+    "deposit_methods": "入金方式",
+    "updated": "更新时间",
+    "alternatives": "替代选项",
+    "disclaimer": "奖励可能因国家/地区、活动、账户状态而变化。注册或交易前请务必核对交易所官方条款。"
+  },
+  "CountryDetail": {
+    "meta_title": "{country} 最佳加密交易所奖励码（2026） | ExchangeBonusCode",
+    "meta_description": "对比 {country} 可用的奖励类型、手续费折扣、KYC 要求与入金方式，并按交易所与交易类型检查可用性。",
+    "updated": "更新时间",
+    "title": "{country} 最佳加密交易所奖励码",
+    "subtitle": "对比 {country} 可用的注册奖励、手续费折扣与交易奖励。可用性可能随活动规则与账户状态变化。",
+    "summary": {
+      "recommended": "推荐交易所",
+      "kyc": "KYC 要求",
+      "deposit": "入金方式",
+      "beginner": "新手友好度"
+    },
+    "kyc_yes": "需要 KYC",
+    "kyc_no": "不需要 KYC",
+    "beginner_score": {
+      "high": "高",
+      "medium": "中"
+    },
+    "table_title": "交易所对比",
+    "table_subtitle": "支持按交易类型与奖励类型筛选与排序。注册前请以官方条款为准。",
+    "filter_trade_type": "交易类型",
+    "filter_bonus_type": "奖励类型",
+    "sort": "排序",
+    "sort_status": "可用性",
+    "sort_name": "名称",
+    "all": "全部",
+    "trade_type_spot": "现货",
+    "trade_type_futures": "合约",
+    "col": {
+      "exchange": "交易所",
+      "availability": "可用性",
+      "bonus_type": "奖励类型",
+      "fee_discount": "手续费折扣",
+      "kyc": "KYC",
+      "deposit": "入金方式",
+      "best_for": "适合人群",
+      "action": "操作"
+    },
+    "status": {
+      "available": "可用",
+      "limited": "受限",
+      "not_available": "不可用"
+    },
+    "none": "无",
+    "view_exchange": "查看交易所",
+    "deposit_method": {
+      "bank-transfer": "银行转账",
+      "card": "银行卡",
+      "p2p": "P2P",
+      "crypto": "加密货币",
+      "e-wallet": "电子钱包"
+    },
+    "steps_title": "领取奖励步骤",
+    "step": {
+      "1_label": "第 1 步",
+      "1_title": "选择交易所并打开官方注册入口",
+      "1_desc": "通过本站交易所页面访问正确注册链接，并查看推荐码与奖励说明。",
+      "2_label": "第 2 步",
+      "2_title": "注册并在需要时填写推荐码",
+      "2_desc": "若交易所支持推荐码，请在注册时填写。部分权益仅在注册时有效。",
+      "3_label": "第 3 步",
+      "3_title": "完成 KYC 与入金条件（如需要）",
+      "3_desc": "很多活动要求完成 KYC 和/或首笔入金。具体条件可能因国家/地区与账户状态不同而变化。",
+      "4_label": "第 4 步",
+      "4_title": "完成任务并在奖励中心核对",
+      "4_desc": "常见条件包括交易任务、成交量门槛与截止时间。请在奖励/活动中心确认。"
+    },
+    "faq_title": "常见问题",
+    "faq": {
+      "q1": "{country} 可以领取哪些奖励？",
+      "a1": "许多奖励具有地区差异。建议使用可用性检查器，并在注册前核对官方条款。",
+      "q2": "{country} 是否必须 KYC？",
+      "a2": "KYC 要求因交易所与活动不同而变化。即使交易本身不要求，领取奖励也可能需要。",
+      "q3": "奖励会变化吗？",
+      "a3": "会。活动规则、奖励金额与手续费折扣可能随时调整。",
+      "q4": "奖励是否保证到账？",
+      "a4": "不保证。本站信息仅供参考，请以交易所官方条款为准。"
+    },
+    "risk_title": "提示与免责声明",
+    "cta_check": "检查最佳奖励",
+    "cta_calc": "使用计算器",
+    "cta_back": "返回国家列表"
+  },
+  "CountryComparison": {
+    "meta_title": "{a} vs {b}：国家/地区奖励可用性对比（2026） | ExchangeBonusCode",
+    "meta_description": "对比 {a} 与 {b} 在主要交易所的奖励可用性与限制。奖励可能随地区与活动规则变化。",
+    "title": "{a} vs {b}：加密交易所奖励可用性对比",
+    "subtitle": "对比主要交易所的可用性标签。注册前请以官方条款为准。",
+    "col": {
+      "exchange": "交易所"
+    },
+    "status": {
+      "available": "可用",
+      "limited": "受限",
+      "not_available": "不可用"
+    },
+    "conclusion_title": "结论",
+    "conclusion_winner": "基于本页简化信息，整体来看 {winner} 的可用性更好。",
+    "conclusion_tie": "基于本页简化信息，两地整体可用性相近。"
+  },
+  "Guides": {
+    "title": "指南",
+    "subtitle": "在注册前了解推荐码、注册奖励与手续费折扣的基本规则与常见误区。",
+    "guide1": {
+      "title": "如何使用加密交易所推荐码",
+      "desc": "一步步教程与常见错误提醒。"
+    }
+  },
+  "GuideReferralCode": {
+    "title": "如何使用加密交易所推荐码",
+    "subtitle": "一份简短实用的教程，帮助你正确填写推荐码并避免常见错误。",
+    "steps_title": "操作步骤",
+    "step1": "打开交易所官方注册页面（建议使用推荐链接）。",
+    "step2": "找到可选的“Referral / Invitation / Promo”等输入框。",
+    "step3": "填写推荐码并提交注册。",
+    "step4": "注册后，如需领取奖励请按规则完成 KYC。",
+    "step5": "在奖励/活动中心查看任务与截止时间。",
+    "mistakes_title": "常见错误",
+    "mistake1": "先注册后再尝试补填推荐码。",
+    "mistake2": "使用不适用于该交易所或该地区的推荐码。",
+    "mistake3": "忽略入金/交易条件与奖励有效期。",
+    "mistake4": "未核对当前活动的官方规则与条款。",
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "推荐码一定有效吗？",
+      "a1": "通常只在注册时有效，并且需交易所支持你的地区；部分活动也可能有时间限制。",
+      "q2": "注册后还能补填推荐码吗？",
+      "a2": "多数情况下不行。除非官方帮助中心明确说明，否则建议视为必须在注册时填写。",
+      "q3": "为什么奖励不是立刻到账？",
+      "a3": "奖励可能需要完成 KYC、入金或交易任务，并且往往分阶段发放。"
+    }
+  },
+  "Best": {
+    "title": "2026 年最佳加密交易所奖励码",
+    "subtitle": "一个实用的起点：对比优惠类型、手续费折扣说明，以及每个交易所更适合谁。",
+    "quick_comparison": "快速对比",
+    "best_for": "适合",
+    "risk_note": "该页面为简化概览。奖励、折扣与可用性可能因国家/地区、活动与账号状态变化，请以交易所官方条款为准。"
+  }
+}

@@ -9,7 +9,7 @@ export const runtime = 'edge';
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
   const t = await getTranslations({locale, namespace: 'Blog'});
-  const baseUrl = 'https://gateioreferralcode.com';
+  const baseUrl = 'https://exchangebonuscode.com';
  
   return {
     title: t('title'),
@@ -24,6 +24,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
         tr: `${baseUrl}/tr/blog`,
         id: `${baseUrl}/id/blog`,
         ru: `${baseUrl}/ru/blog`,
+        zh: `${baseUrl}/zh/blog`,
       },
     },
   };

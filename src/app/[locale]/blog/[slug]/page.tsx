@@ -1,4 +1,4 @@
-import {getTranslations} from 'next-intl/server';
+
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import {notFound} from 'next/navigation';
@@ -12,7 +12,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
   
   if (!post) return {};
 
-  const baseUrl = 'https://gateioreferralcode.com';
+  const baseUrl = 'https://exchangebonuscode.com';
 
   return {
     title: post.title,
@@ -27,6 +27,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
         tr: `${baseUrl}/tr/blog/${slug}`,
         id: `${baseUrl}/id/blog/${slug}`,
         ru: `${baseUrl}/ru/blog/${slug}`,
+        zh: `${baseUrl}/zh/blog/${slug}`,
       },
     },
   };

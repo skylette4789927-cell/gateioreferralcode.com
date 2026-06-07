@@ -31,6 +31,7 @@ export default function LanguageSwitcher() {
       <option value="tr">Türkçe</option>
       <option value="id">Bahasa Indonesia</option>
       <option value="ru">Русский</option>
+      <option value="zh">简体中文</option>
     </select>
   );
 }

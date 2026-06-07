@@ -1,18 +1,23 @@
 {
   "Index": {
-    "title": "Código de Referido Gate 2026: Obtén $5000 de Bono | gateioreferralcode.com",
-    "description": "Usa el código de referido oficial de Gate.io para reclamar hasta $5000 en bono de bienvenida. El mejor código de invitación de Gate.io para descuentos en comisiones y recompensas."
+    "title": "Mejores códigos de bono de exchanges cripto en 2026 | exchangebonuscode.com",
+    "description": "Compara bonos de registro, códigos de referido y descuentos de comisiones. Las recompensas pueden variar según la región y la campaña."
   },
   "Header": {
     "home": "Inicio",
+    "bonus_codes": "Códigos",
+    "compare": "Comparar",
+    "calculators": "Calculadoras",
+    "countries": "Países",
+    "guides": "Guías",
     "invitation_code": "Código de Invitación",
     "bonus": "Bonos",
     "guide": "Guía",
     "blog": "Blog"
   },
   "Hero": {
-    "title": "Código de Referido Gate.io (2026) Obtén hasta $5,000 de Bono",
-    "subtitle": "Usa el último código de invitación de Gate.io para desbloquear recompensas de trading y descuentos en comisiones.",
+    "title": "Código de referido de Gate.io (2026): guía de bonos y descuentos",
+    "subtitle": "Usa un código de referido al registrarte para acceder a recompensas de campaña y posibles descuentos de comisiones (la disponibilidad puede variar).",
     "cta": "Reclamar Bono en Gate.io"
   },
   "ReferralCard": {
@@ -20,7 +25,7 @@
     "subtitle": "Exclusivo para Nuevos Usuarios",
     "copy": "Copiar Código",
     "copied": "Copiado ✓",
-    "benefit1": "Hasta $5,000 bono de bienvenida",
+    "benefit1": "Recompensas de bienvenida potenciales (pueden variar)",
     "benefit2": "Descuentos en comisiones de trading",
     "benefit3": "Recompensas de campañas exclusivas",
     "register": "Regístrate Ahora"
@@ -77,7 +82,7 @@
     "description": "Último código de invitación de Gate.io para nuevos usuarios. Regístrate ahora para desbloquear bonos de trading exclusivos y reducciones de comisiones."
   },
   "ReferralBonus": {
-    "title": "Guía de Bonos de Referido Gate.io 2026: Cómo Reclamar $5000",
+    "title": "Guía de bonos por referido de Gate.io 2026: requisitos y cómo reclamarlos",
     "description": "Guía completa sobre los bonos de referido de Gate.io. Aprende cómo obtener el bono de bienvenida, recompensas por depósito y reembolsos de comisiones de trading."
   },
   "ReferralReddit": {
@@ -93,11 +98,641 @@
     "description": "Guía paso a paso sobre el uso del ID de Referido de Gate.io durante el registro. Asegúrate de no perderte el bono de registro."
   },
   "Footer": {
-    "rights_reserved": "Centro de Códigos de Referido. Todos los derechos reservados."
+    "rights_reserved": "Todos los derechos reservados."
   },
   "Blog": {
     "title": "Blog y Guías de Gate.io",
     "description": "Últimas noticias, tutoriales y guías sobre el intercambio Gate.io.",
     "read_more": "Leer Más"
+  },
+  "Common": {
+    "copy_code": "Copiar código",
+    "copied": "Copiado",
+    "register": "Registrarse",
+    "view_details": "Ver detalles",
+    "calculate_value": "Calcular valor",
+    "view_code": "Ver código",
+    "best_for": "Mejor para",
+    "updated": "Actualizado",
+    "add_to_favorites": "Añadir a favoritos",
+    "remove_from_favorites": "Quitar de favoritos"
+  },
+  "Disclaimer": {
+    "text": "Las recompensas, los bonos y los descuentos de comisiones pueden variar según el país, la campaña y el estado de la cuenta. Este sitio solo ofrece estimaciones informativas y no es asesoramiento financiero. Confirma siempre los términos oficiales del exchange antes de registrarte o operar."
+  },
+  "Exchange": {
+    "referral_code_label": "Código de referido de {name}",
+    "bonus_type": {
+      "signup": "registro",
+      "trading": "trading",
+      "fee_discount": "descuento de comisiones",
+      "voucher": "vale",
+      "cashback": "reembolso"
+    },
+    "bonus_type_help": {
+      "signup": "Recompensas por registro para nuevas cuentas (dependen de campaña y región).",
+      "trading": "Tareas de trading, requisitos de volumen o reembolsos vinculados a la actividad de trading.",
+      "fee_discount": "Comisiones de trading reducidas (puede variar según nivel VIP, token y región).",
+      "voucher": "Vales que pueden usarse como créditos de comisiones o beneficios de campaña.",
+      "cashback": "Cashback o reembolsos tras cumplir ciertas condiciones."
+    },
+    "best_for_tag": {
+      "altcoins": "altcoins",
+      "new_listings": "nuevas listas",
+      "derivatives": "derivados",
+      "advanced_traders": "traders avanzados",
+      "liquidity": "liquidez",
+      "low_spreads": "spreads bajos"
+    },
+    "table": {
+      "exchange": "Intercambio",
+      "bonus_types": "Tipos de bono",
+      "best_for": "Mejor para",
+      "action": "Acción"
+    }
+  },
+  "ExchangeDetail": {
+    "title": "Código de referido de {name} 2026: bonos, recompensas y descuentos",
+    "subtitle": "Compara tipos de bono, entiende los requisitos y calcula el ahorro en comisiones antes de registrarte.",
+    "how": {
+      "title": "Cómo usar el código",
+      "step1": "Abre la página oficial de registro.",
+      "step2": "Encuentra el campo opcional de referido / invitación.",
+      "step3": "Pega el código y completa el registro.",
+      "step4": "Después de registrarte, revisa el centro de recompensas/bonos."
+    },
+    "rewards": {
+      "title": "Qué recompensas pueden estar disponibles",
+      "item1": "Recompensas por registro (según campaña).",
+      "item2": "Descuentos en comisiones de trading (según nivel y región).",
+      "item3": "Vales o reembolsos por tareas (pueden aplicar requisitos de depósito/trading/KYC).",
+      "cta": "Estimar tu valor potencial"
+    },
+    "faq": {
+      "title": "FAQ",
+      "q1": "¿Qué es un código de referido de {name}?",
+      "a1": "Un código de referido es un código opcional que puedes ingresar durante el registro. Los beneficios pueden incluir descuentos de comisiones o recompensas de campaña, según tu región y la promoción vigente.",
+      "q2": "¿Dónde ingreso el código en {name}?",
+      "a2": "La mayoría de exchanges muestran un campo de referido/invitación durante el registro. Si no lo ves, abre de nuevo la página oficial usando el enlace de referido y busca el campo opcional.",
+      "q3": "¿Puedo cambiar o añadir un código de referido después?",
+      "a3": "Algunos exchanges lo permiten, muchos no. Trata los códigos de referido como “solo al registrarse” a menos que el soporte oficial indique lo contrario.",
+      "q4": "¿Las recompensas están garantizadas?",
+      "a4": "No. Las recompensas y descuentos pueden cambiar según el país, el KYC, el depósito, las tareas de trading y las reglas de campaña. Confirma siempre los términos oficiales."
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "Mejores códigos de bono de exchanges cripto en 2026",
+      "subtitle": "Compara bonos de registro verificados, descuentos de comisiones, códigos de referido y requisitos antes de registrarte.",
+      "cta_compare": "Comparar códigos",
+      "cta_best": "Ver mi mejor bono",
+      "cta_calc": "Calcular recompensas"
+    },
+    "quick_calc": {
+      "title": "Calculadora rápida",
+      "subtitle": "Introduce país, tipo de trading y volumen para estimar ahorros en comisiones.",
+      "full_calc": "Calculadora completa",
+      "country": "País",
+      "trade_type": "Tipo de trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futuros",
+      "monthly_volume": "Volumen mensual (USD)",
+      "best_match": "Mejor opción (estimación)",
+      "annual_savings": "Ahorro anual estimado: {low}–{high}",
+      "discount_range": "Rango de descuento estimado: {low}–{high}",
+      "view_code": "Ver código",
+      "compare": "Comparar",
+      "note": "Estimaciones simplificadas; pueden no reflejar niveles VIP, descuentos por token o reglas de campaña."
+    },
+    "finder": {
+      "title": "Buscador de bonos",
+      "subtitle": "Responde unas preguntas para encontrar el código que mejor encaja contigo.",
+      "experience": "Experiencia",
+      "experience_new": "Principiante",
+      "experience_experienced": "Experimentado",
+      "trade_type": "Tipo de trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futuros",
+      "preference": "Prioridad",
+      "preference_bonus": "Bono",
+      "preference_fees": "Menores comisiones",
+      "country": "País",
+      "result_title": "Recomendación",
+      "best_match": "Mejor opción: {name}",
+      "why": "Según tus preferencias y la disponibilidad en {country}.",
+      "alternatives": "Alternativas",
+      "cta_view": "Ver código",
+      "cta_calc": "Calcular valor",
+      "empty": "Selecciona opciones para ver una recomendación.",
+      "note": "Recomendación simplificada. Confirma siempre los términos oficiales."
+    },
+    "featured": {
+      "title": "Códigos destacados"
+    },
+    "table": {
+      "title": "Tabla de comparación",
+      "subtitle": "Comparación rápida de tipos de bono y para quién puede ser mejor cada exchange."
+    },
+    "compare": {
+      "title": "Comparación interactiva",
+      "trade_type": "Tipo de trading",
+      "trade_type_spot": "Spot",
+      "trade_type_futures": "Futuros",
+      "sort": "Ordenar por",
+      "sort_low_fee": "Comisión más baja (estimación)",
+      "sort_best_bonus": "Mejor bono",
+      "est_fee": "Comisiones anuales (est.)",
+      "cta": "Ver código",
+      "note": "La ordenación usa supuestos simplificados y puede no coincidir con los niveles reales."
+    },
+    "recent": {
+      "title": "Visto recientemente",
+      "subtitle": "Vuelve rápido a páginas que abriste antes.",
+      "empty": "Aún no hay exchanges vistos recientemente."
+    },
+    "favorites": {
+      "title": "Favoritos",
+      "subtitle": "Guarda exchanges para compararlos más tarde.",
+      "empty": "Aún no hay favoritos."
+    },
+    "faq_title": "Reglas de bonos explicadas",
+    "faq": {
+      "q1": "¿Qué es un código de bono de exchange?",
+      "a1": "Un código de bono o de referido es un código opcional usado durante el registro que puede activar descuentos de comisiones o recompensas de campaña, según la región y la promoción.",
+      "q2": "¿Los bonos están garantizados?",
+      "a2": "No. Las recompensas pueden cambiar según el país, el KYC, el depósito, las tareas de trading y las reglas de campaña. Confirma siempre los términos oficiales.",
+      "q3": "¿Cuál es la diferencia entre bono y descuento de comisiones?",
+      "a3": "Un bono suele ser una recompensa de campaña con condiciones. Un descuento reduce los costes de trading y depende de niveles de comisión, descuentos por token o programas de referido.",
+      "q4": "¿Puedo introducir un código después de registrarme?",
+      "a4": "A menudo no. Muchos exchanges solo aceptan códigos de referido durante el registro, a menos que el soporte oficial permita cambios."
+    },
+    "countries": {
+      "title": "Guías por país",
+      "subtitle": "Empieza por ubicaciones populares. La disponibilidad puede cambiar.",
+      "view_all": "Ver todo"
+    },
+    "updates": {
+      "title": "Actualizaciones de bonos",
+      "subtitle": "Mantente al día con campañas, cambios de código y descuentos de comisiones.",
+      "item1_title": "Campañas recientes",
+      "item1_desc": "Nuevas promociones de registro o trading en exchanges.",
+      "item2_title": "Cambios de código",
+      "item2_desc": "Actualizaciones de códigos o enlaces verificados en este sitio.",
+      "item3_title": "Descuentos de comisiones",
+      "item3_desc": "Cambios en niveles de comisión o rangos de descuento."
+    }
+  },
+  "CountryBonus": {
+    "title": "Mejores códigos de bono de exchanges cripto en {country}",
+    "subtitle": "Compara códigos de bono y descuentos de comisiones disponibles en {country}. Las recompensas pueden variar por región y campaña.",
+    "cta_compare": "Comparar códigos",
+    "cta_calc": "Calcular valor",
+    "featured": "Códigos destacados",
+    "notes_title": "Notas",
+    "note1": "La disponibilidad puede cambiar por regulación local y requisitos de KYC.",
+    "note2": "Los bonos y descuentos pueden variar según campaña y estado de cuenta.",
+    "note3": "Verifica siempre los términos oficiales antes de registrarte o operar."
+  },
+  "BonusCodes": {
+    "title": "Base de datos de códigos de bono",
+    "subtitle": "Explora listados y compara tipos de bono, requisitos y notas de descuentos de comisiones.",
+    "search_label": "Buscar",
+    "search_placeholder": "Escribe el nombre del exchange",
+    "sort_label": "Ordenar",
+    "sort_featured": "Destacados",
+    "sort_updated": "Actualizado recientemente",
+    "sort_max_discount": "Máx. descuento",
+    "sort_name": "Nombre (A–Z)",
+    "filters_label": "Filtros",
+    "bonus_type_signup": "Registro",
+    "bonus_type_trading": "Trading",
+    "bonus_type_fees": "Descuento",
+    "bonus_type_voucher": "Vale",
+    "bonus_type_cashback": "Reembolso",
+    "favorites_only": "Solo favoritos",
+    "clear_filters": "Limpiar",
+    "results_count": "{count} resultados",
+    "open_exchange": "Abrir detalles de {name}",
+    "calculator_title": "Calcular valor para {name}",
+    "calculator_subtitle": "Estima el posible ahorro en comisiones según el volumen y supuestos de comisiones.",
+    "calculator_result": "Estimación",
+    "calculator_savings": "Ahorro anual estimado: {low}–{high}",
+    "calculator_discount": "Rango de descuento estimado: {low}–{high}",
+    "calculator_full": "Abrir calculadora completa",
+    "close": "Cerrar"
+  },
+  "Compare": {
+    "title": "Comparar códigos de bono",
+    "subtitle": "Compara tipos de bono y notas de descuentos de comisiones entre exchanges cripto."
+  },
+  "CompareTool": {
+    "pick_title": "Elige hasta 3 exchanges",
+    "pick_note": "Esta es una comparación simplificada. Las recompensas y la disponibilidad pueden variar según el país y las reglas de campaña.",
+    "result_title": "Resultado",
+    "best_match": "Mejor opción (estimación)",
+    "bonus_types": "Tipos de bono",
+    "best_for": "Mejor para",
+    "view_referral": "Ver código de referido de {name}",
+    "empty": "Selecciona al menos un exchange para ver el resultado."
+  },
+  "Calculators": {
+    "title": "Crypto Bonus & Fee Calculators",
+    "subtitle": "Estimate potential exchange rewards, trading fee savings, referral code validity, and bonus requirements before you register.",
+    "cta_bonus": "Calculate My Bonus Value",
+    "cta_checker": "Check Referral Code",
+    "preview": {
+      "title": "Quick preview",
+      "savings_label": "Estimated yearly fee savings",
+      "savings_value": "$48 – $126",
+      "best_label": "Best match",
+      "best_value": "OKX / Binance / Gate.io",
+      "status_label": "Status",
+      "status_value": "Region dependent",
+      "note": "Estimates only. Actual rewards and fee discounts can vary by country, KYC status, deposit amount, trading volume, and official exchange rules."
+    },
+    "badge": {
+      "highest": "Highest",
+      "high": "High",
+      "soon": "Soon"
+    },
+    "main_tools": {
+      "title": "Core tools",
+      "subtitle": "Use these to go from browsing to decision-making before you sign up."
+    },
+    "bonus_value": {
+      "title": "Calculadora de valor del bono",
+      "desc": "Estimate potential bonus value and yearly trading fee savings, plus a best-match score.",
+      "inputs": "Inputs: exchange, country, deposit, monthly volume, trading type",
+      "cta": "Start calculating →"
+    },
+    "checker": {
+      "title": "Verificador de código de referido",
+      "desc": "Check whether a referral code format looks valid and matches verified listings on this site.",
+      "inputs": "Inputs: exchange, code, country, new user",
+      "cta": "Check a code →"
+    },
+    "fee_savings": {
+      "title": "Trading Fee Savings Calculator",
+      "desc": "Estimate how much you could save per year from fee discounts based on your trading volume.",
+      "inputs": "Inputs: exchange, spot/futures, maker/taker, volume, discounts",
+      "cta": "Estimate savings →"
+    },
+    "country_checker": {
+      "title": "Country Availability Checker",
+      "desc": "Check whether exchange bonuses may be available in your country and what conditions to expect.",
+      "inputs": "Inputs: country, exchange, new user, spot/futures",
+      "cta": "Check availability →"
+    },
+    "coming": {
+      "title": "More tools coming",
+      "subtitle": "These will be added in the next phase to reduce drop-off and improve decision confidence.",
+      "requirement": {
+        "title": "Bonus Requirement Checker",
+        "desc": "Estimate how hard it is to qualify for a bonus based on typical requirements."
+      },
+      "finder": {
+        "title": "Best Bonus Finder",
+        "desc": "Answer a few questions to get a best-match exchange + bonus suggestion."
+      },
+      "checklist": {
+        "title": "Bonus Claim Checklist",
+        "desc": "A step-by-step checklist so you don’t miss any claim requirements."
+      },
+      "tracker": {
+        "title": "Reward Tracker",
+        "desc": "Track your own bonus tasks and deadlines using local storage (no login)."
+      }
+    }
+  },
+  "CalculatorPage": {
+    "title": "Crypto Exchange Bonus Value Calculator",
+    "subtitle": "Estimate potential bonus value, fee savings, referral code impact, and eligibility notes before you register. Results are estimates only."
+  },
+  "Calculator": {
+    "inputs": "Entradas",
+    "country": "Country",
+    "exchange": "Intercambio",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "trade_type": "Tipo de trading",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futuros",
+    "first_deposit": "Primer depósito (USD)",
+    "first_deposit_placeholder": "100",
+    "monthly_volume": "Volumen mensual (USD)",
+    "monthly_volume_placeholder": "1000",
+    "output_estimate": "Salida (estimación)",
+    "output_country_exchange": "{country} · {exchange}",
+    "match_score": "Bonus Match Score: {score}/100",
+    "fee_savings_title": "Estimated fee savings",
+    "best_match_title": "Recommended exchange",
+    "best_match_note": "Availability: {status}. Compare exchanges if you’re deciding between options.",
+    "requirements_title": "Requirements you may need",
+    "cta_compare": "Compare exchanges",
+    "availability_available": "Available",
+    "availability_limited": "Region dependent",
+    "availability_not_confirmed": "Not confirmed",
+    "use_referral": "Use referral code?",
+    "use_referral_note": "Most exchanges only accept referral codes during sign-up.",
+    "hold_token": "Holding exchange token?",
+    "hold_token_note": "Some exchanges offer additional fee discounts for token holding.",
+    "req_new_account": "New account registration",
+    "req_referral_code": "Referral code entered during signup",
+    "req_kyc": "KYC verification",
+    "req_deposit_or_trade": "Deposit or trading task may be required",
+    "output_exchange": "Intercambio",
+    "output_annual_volume": "Volumen anual asumido",
+    "output_assumed_fees": "Comisiones anuales asumidas (usando la tasa taker asumida):",
+    "output_savings_range": "Rango posible de ahorro ({low}–{high}):",
+    "per_year": "/ año",
+    "deposit_note_value": "primer depósito de {value}",
+    "deposit_note_default": "tu primer depósito",
+    "output_note": "Esta estimación usa un supuesto simplificado y no incluye niveles VIP, rebates maker, descuentos por token ni reglas específicas de campaña. Las recompensas pueden requerir {depositNote}, KYC y/o tareas de trading."
+  },
+  "ReferralCheckerPage": {
+    "title": "Verificador de código de referido",
+    "subtitle": "Check code format, verified listing status, and region-dependent notes before you register. Most referral codes must be entered during sign-up."
+  },
+  "ReferralChecker": {
+    "inputs": "Entradas",
+    "exchange": "Intercambio",
+    "referral_code": "Código de referido",
+    "referral_code_placeholder": "Introduce el código",
+    "country": "Country",
+    "new_user": "New user?",
+    "new_user_yes": "Yes",
+    "new_user_no": "No",
+    "result": "Resultado",
+    "status_enter": "Enter a code to check format and listing status.",
+    "status_invalid_title": "Status: Code format may be invalid",
+    "status_invalid_desc": "Please check the exchange name and code again.",
+    "status_valid_title": "Status: Format looks valid",
+    "status_valid_unverified_desc": "This code is not listed as a verified code on our site. Benefits may vary.",
+    "status_verified_title": "Status: Verified listing on ExchangeBonusCode.com",
+    "status_verified_desc": "This code matches a verified listing for the selected exchange.",
+    "cta_use_code": "Use this code",
+    "cta_view_bonus": "View bonus details",
+    "cta_compare_verified": "Compare verified codes",
+    "copied": "Copied",
+    "existing_user_title": "Existing user warning",
+    "existing_user_desc": "Many exchanges only accept referral codes during sign-up. Existing users may not be able to add a code later.",
+    "note": "Country: {country}. Benefits may vary by region and campaign rules. Always verify on the official {name} signup page before registering."
+  },
+  "FeeSavingsPage": {
+    "title": "Crypto Trading Fee Savings Calculator",
+    "subtitle": "Estimate how much you might save with fee discounts (referral codes, token holding, or tier assumptions). Results are estimates only."
+  },
+  "FeeSavings": {
+    "inputs": "Inputs",
+    "exchange": "Exchange",
+    "trade_type": "Trading type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "fee_side": "Maker or taker",
+    "fee_side_maker": "Maker",
+    "fee_side_taker": "Taker",
+    "monthly_volume": "Monthly trading volume (USD)",
+    "monthly_volume_placeholder": "5000",
+    "trading_months": "Trading months",
+    "use_referral": "Use referral code",
+    "use_referral_note": "Some discounts may require entering a code during sign-up.",
+    "hold_token": "Hold exchange token",
+    "hold_token_note": "Additional discounts may apply when holding the exchange token.",
+    "output": "Output (estimate)",
+    "level": {
+      "low": "Low savings",
+      "medium": "Medium savings",
+      "high": "High savings"
+    },
+    "original_fee": "Original estimated fee",
+    "original_fee_note": "Based on {months} months of volume and a simplified fee assumption.",
+    "after_discount": "Estimated fee after discount",
+    "after_discount_note": "Shown as a range to avoid over-promising.",
+    "savings": "Potential savings",
+    "savings_note": "Higher trading frequency can make fee discounts more valuable than one-time signup bonuses.",
+    "disclaimer": "This is an estimate only. Rewards, bonuses, and fee discounts may vary by country, campaign, KYC status, deposit amount, trading volume, and official exchange rules."
+  },
+  "Countries": {
+    "hub_title": "Crypto Exchange Bonus Codes by Country",
+    "hub_subtitle": "Rewards vary by country due to KYC rules, product availability, and local payment methods. Search and filter to find the best match for your location.",
+    "hub_meta_title": "Crypto Exchange Bonus Codes by Country (2026) | ExchangeBonusCode",
+    "hub_meta_description": "Browse country bonus guides and quickly check availability by country, KYC, trade type, and deposit method. Rewards may vary by region and campaign rules.",
+    "search_label": "Search",
+    "search_placeholder": "Search a country or region",
+    "filter_region": "Region",
+    "filter_kyc": "KYC",
+    "filter_trade_type": "Spot/Futures",
+    "filter_deposit_method": "Deposit method",
+    "all": "All",
+    "kyc": "KYC",
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "deposit_methods": "Deposit methods",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "favorites_only": "Favorites only",
+    "clear_filters": "Clear",
+    "results_count": "{count} results",
+    "recently_viewed": "Recently viewed",
+    "popular_comparisons_title": "Popular country comparisons",
+    "popular_comparisons_subtitle": "Quickly compare bonus availability across two locations.",
+    "recommended": "Recommended",
+    "view_guide": "View guide",
+    "check_availability": "Check availability",
+    "tag_high_bonus": "High bonus potential",
+    "tag_easy_deposit": "Easy deposit",
+    "tag_kyc_required": "KYC required",
+    "updated": "Updated",
+    "open_country": "Open {name} country guide",
+    "favorite_add": "Add to favorites",
+    "favorite_remove": "Remove from favorites",
+    "region": {
+      "Asia": "Asia",
+      "Middle East": "Middle East",
+      "Oceania": "Oceania",
+      "North America": "North America",
+      "South America": "South America",
+      "Europe": "Europe",
+      "Africa": "Africa"
+    }
+  },
+  "AvailabilityCheckerPage": {
+    "title": "Country Availability Checker",
+    "subtitle": "Select country, exchange, user type, and trade type to see availability and reward notes. Results are informational and can vary by campaign rules."
+  },
+  "AvailabilityChecker": {
+    "inputs": "Inputs",
+    "country": "Country",
+    "exchange": "Exchange",
+    "user_type": "User type",
+    "user_type_new": "New user",
+    "user_type_existing": "Existing user",
+    "trade_type": "Trade type",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "cta_check": "Check availability",
+    "history": "History",
+    "output": "Output",
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "tag_verified": "Verified",
+    "tag_region_dependent": "Region dependent",
+    "tag_kyc_needed": "KYC needed",
+    "bonus_types": "Bonus types",
+    "no_bonus": "No bonus listed",
+    "deposit_methods": "Deposit methods",
+    "updated": "Updated",
+    "alternatives": "Alternative options",
+    "disclaimer": "Rewards may vary by country, campaign, and account status. Always confirm official terms on the exchange before registering or trading."
+  },
+  "CountryDetail": {
+    "meta_title": "Best Crypto Exchange Bonus Codes in {country} (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus types, fee discount notes, KYC requirements, and deposit methods in {country}. Check availability by exchange and trade type.",
+    "updated": "Updated",
+    "title": "Best Crypto Exchange Bonus Codes in {country}",
+    "subtitle": "Compare signup rewards, fee discounts, and trading rewards available in {country}. Availability can vary by campaign rules and account status.",
+    "summary": {
+      "recommended": "Recommended exchanges",
+      "kyc": "KYC requirement",
+      "deposit": "Deposit methods",
+      "beginner": "Beginner friendliness"
+    },
+    "kyc_yes": "KYC required",
+    "kyc_no": "No KYC",
+    "beginner_score": {
+      "high": "High",
+      "medium": "Medium"
+    },
+    "table_title": "Exchange comparison",
+    "table_subtitle": "Sort and filter by trade type and bonus type. Always verify official terms before registering.",
+    "filter_trade_type": "Trade type",
+    "filter_bonus_type": "Bonus type",
+    "sort": "Sort",
+    "sort_status": "Availability",
+    "sort_name": "Name",
+    "all": "All",
+    "trade_type_spot": "Spot",
+    "trade_type_futures": "Futures",
+    "col": {
+      "exchange": "Exchange",
+      "availability": "Availability",
+      "bonus_type": "Bonus type",
+      "fee_discount": "Fee discount",
+      "kyc": "KYC",
+      "deposit": "Deposit methods",
+      "best_for": "Best for",
+      "action": "Action"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "none": "None",
+    "view_exchange": "View exchange",
+    "deposit_method": {
+      "bank-transfer": "Bank transfer",
+      "card": "Card",
+      "p2p": "P2P",
+      "crypto": "Crypto",
+      "e-wallet": "E-wallet"
+    },
+    "steps_title": "How to claim bonuses (step-by-step)",
+    "step": {
+      "1_label": "Step 1",
+      "1_title": "Pick an exchange and open the official sign-up page",
+      "1_desc": "Use our exchange guide page to access the correct registration link and verified referral code notes.",
+      "2_label": "Step 2",
+      "2_title": "Complete registration and enter code if required",
+      "2_desc": "If the exchange supports referral codes, enter the code during sign-up. Some benefits require sign-up-time entry.",
+      "3_label": "Step 3",
+      "3_title": "Complete KYC and deposit requirements (if required)",
+      "3_desc": "Many campaigns require KYC and/or a first deposit. Requirements can vary by country and account status.",
+      "4_label": "Step 4",
+      "4_title": "Finish tasks and check the rewards center",
+      "4_desc": "Trading tasks, volume thresholds, and deadlines are common. Always check the exchange bonus center."
+    },
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "Do bonuses work in {country}?",
+      "a1": "Many bonuses are region-dependent. Use the availability checker and confirm official terms before registering.",
+      "q2": "Do I need KYC in {country}?",
+      "a2": "KYC requirements vary by exchange and campaign. Some rewards require KYC even if basic trading does not.",
+      "q3": "Can rewards change over time?",
+      "a3": "Yes. Campaign rules, bonus amounts, and fee discounts can change without notice.",
+      "q4": "Are these rewards guaranteed?",
+      "a4": "No. This site provides informational estimates only. Always confirm the official exchange terms."
+    },
+    "risk_title": "Notes & risk",
+    "cta_check": "Check your best bonus",
+    "cta_calc": "Use calculator",
+    "cta_back": "Back to countries"
+  },
+  "CountryComparison": {
+    "meta_title": "{a} vs {b}: Country Bonus Availability (2026) | ExchangeBonusCode",
+    "meta_description": "Compare bonus availability, limitations, and exchange support between {a} and {b}. Rewards may vary by region and campaign rules.",
+    "title": "{a} vs {b}: Crypto Exchange Bonus Availability",
+    "subtitle": "Compare availability labels across major exchanges. Always verify official terms before registering.",
+    "col": {
+      "exchange": "Exchange"
+    },
+    "status": {
+      "available": "Available",
+      "limited": "Limited",
+      "not_available": "Not available"
+    },
+    "conclusion_title": "Conclusion",
+    "conclusion_winner": "Based on this simplified listing, {winner} looks more flexible overall.",
+    "conclusion_tie": "Both locations look similar based on this simplified listing."
+  },
+  "Guides": {
+    "title": "Guías",
+    "subtitle": "Aprende cómo funcionan los códigos de referido, los bonos de registro y los descuentos antes de registrarte.",
+    "guide1": {
+      "title": "Cómo usar un código de referido cripto",
+      "desc": "Instrucciones paso a paso y errores comunes a evitar."
+    }
+  },
+  "GuideReferralCode": {
+    "title": "Cómo usar un código de referido cripto",
+    "subtitle": "Una guía breve y práctica para introducir códigos correctamente y evitar errores comunes.",
+    "steps_title": "Paso a paso",
+    "step1": "Abre la página oficial de registro (preferiblemente usando el enlace de referido).",
+    "step2": "Encuentra el campo opcional “Referido / Invitación / Promo”.",
+    "step3": "Pega el código y envía el registro.",
+    "step4": "Después del registro, completa el KYC si es necesario para recibir recompensas.",
+    "step5": "Revisa el centro de recompensas/bonos para tareas y plazos.",
+    "mistakes_title": "Errores comunes",
+    "mistake1": "Registrarte primero e intentar añadir el código después.",
+    "mistake2": "Usar un código de otro exchange o región.",
+    "mistake3": "Ignorar requisitos de depósito/trading y caducidad de recompensas.",
+    "mistake4": "No revisar los términos oficiales de la campaña actual.",
+    "faq_title": "FAQ",
+    "faq": {
+      "q1": "¿Los códigos de referido siempre funcionan?",
+      "a1": "Normalmente solo funcionan durante el registro y si el exchange admite tu región. Algunas campañas son por tiempo limitado.",
+      "q2": "¿Puedo añadir un código después de registrarme?",
+      "a2": "A menudo no. Trata los códigos como “debes introducirlos al registrarte” a menos que el soporte oficial confirme lo contrario.",
+      "q3": "¿Por qué el bono no se acredita de inmediato?",
+      "a3": "Los bonos pueden requerir KYC, depósitos o tareas de trading. Muchas recompensas se acreditan por etapas cuando cumples condiciones."
+    }
+  },
+  "Best": {
+    "title": "Mejores códigos de bono de exchanges cripto en 2026",
+    "subtitle": "Un punto de partida práctico para comparar tipos de bono, notas de descuentos y para quién puede encajar mejor cada exchange.",
+    "quick_comparison": "Comparación rápida",
+    "best_for": "Mejor para",
+    "risk_note": "Esta es una vista simplificada. Las recompensas, los descuentos y la disponibilidad pueden cambiar según el país, la campaña y el estado de la cuenta. Confirma siempre los términos oficiales."
   }
 }
